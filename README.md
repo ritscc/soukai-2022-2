@@ -1,265 +1,265 @@
-2022”N“x‘æ“ñ‰ñ‘‰ï‹cˆÄ‘
+2022å¹´åº¦ç¬¬äºŒå›žç·ä¼šè­°æ¡ˆæ›¸
 ========================
-‚±‚ê‚ÍC2022”N“x‘æ“ñ‰ñ‘‰ï‹cˆÄ‘ƒŠƒ|ƒWƒgƒŠ‚Å‚·D
+ã“ã‚Œã¯ï¼Œ2022å¹´åº¦ç¬¬äºŒå›žç·ä¼šè­°æ¡ˆæ›¸ãƒªãƒã‚¸ãƒˆãƒªã§ã™ï¼Ž
 
-ƒrƒ‹ƒhƒXƒe[ƒ^ƒX
+ãƒ“ãƒ«ãƒ‰ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹
 -----------------------
-RCC‚Ì‘‰ï•¶Í‚ÍGitHub Actions‚ð—p‚¢‚ÄC‘‰ï•¶‘‚Ìƒrƒ‹ƒh‚ðŽ©“®‰»‚µ‚Ä‚¢‚Ü‚·D
+RCCã®ç·ä¼šæ–‡ç« ã¯GitHub Actionsã‚’ç”¨ã„ã¦ï¼Œç·ä¼šæ–‡æ›¸ã®ãƒ“ãƒ«ãƒ‰ã‚’è‡ªå‹•åŒ–ã—ã¦ã„ã¾ã™ï¼Ž
 
-PDF‚ð¶¬‚·‚é‚É‚ÍCƒx[ƒXƒuƒ‰ƒ“ƒ`‚ð`master`‚©`main`‚ÉÝ’è‚µ‚ÄCPull Request‚ðì¬‚µ‚Ä‚­‚¾‚³‚¢D
-¶¬‚³‚ê‚½PDF‚ÍC[ƒŠƒ|ƒWƒgƒŠ‚ÌƒŠƒŠ[ƒXƒy[ƒW](https://github.com/ritscc/soukai-2022-2/releases)‚ÉƒAƒbƒvƒ[ƒh‚³‚ê‚Ü‚·D
+PDFã‚’ç”Ÿæˆã™ã‚‹ã«ã¯ï¼Œãƒ™ãƒ¼ã‚¹ãƒ–ãƒ©ãƒ³ãƒã‚’`master`ã‹`main`ã«è¨­å®šã—ã¦ï¼ŒPull Requestã‚’ä½œæˆã—ã¦ãã ã•ã„ï¼Ž
+ç”Ÿæˆã•ã‚ŒãŸPDFã¯ï¼Œ[ãƒªãƒã‚¸ãƒˆãƒªã®ãƒªãƒªãƒ¼ã‚¹ãƒšãƒ¼ã‚¸](https://github.com/ritscc/soukai-2022-2/releases)ã«ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã•ã‚Œã¾ã™ï¼Ž
 
 
-•¶Í•\Œ»‚É‚Â‚¢‚Ä
+æ–‡ç« è¡¨ç¾ã«ã¤ã„ã¦
 -----------------------
-•¶Í•\Œ»‚É‚Â‚¢‚Ä“ˆê•\‹L‚ð‚±‚±‚ÉŽ¦‚µ‚Ü‚·D
-‚È‚¨C•¶Í•\Œ»’ù³ˆê——•\‚ÍC[•¶Í\¬ƒc[ƒ‹yunagiz‚Ìƒ‹[ƒ‹CSVƒtƒ@ƒCƒ‹](https://github.com/ritscc/unagi/blob/master/rules.csv)‚ðŠm”F‚µ‚Ä‚­‚¾‚³‚¢D
+æ–‡ç« è¡¨ç¾ã«ã¤ã„ã¦çµ±ä¸€è¡¨è¨˜ã‚’ã“ã“ã«ç¤ºã—ã¾ã™ï¼Ž
+ãªãŠï¼Œæ–‡ç« è¡¨ç¾è¨‚æ­£ä¸€è¦§è¡¨ã¯ï¼Œ[æ–‡ç« æ§‹æˆãƒ„ãƒ¼ãƒ«ã€unagiã€‘ã®ãƒ«ãƒ¼ãƒ«CSVãƒ•ã‚¡ã‚¤ãƒ«](https://github.com/ritscc/unagi/blob/master/rules.csv)ã‚’ç¢ºèªã—ã¦ãã ã•ã„ï¼Ž
 
-* Œû’²F**‚Å‚ ‚é’²**(‚¾’²‚Íƒ_ƒ)
+* å£èª¿ï¼š**ã§ã‚ã‚‹èª¿**(ã èª¿ã¯ãƒ€ãƒ¡)
 
-* ”ŽšFŒÅ—L–¼ŽŒ(—áF2022”N“x‘æ“ñ‰ñ‘‰ï)CŠµ—p‹å(ŽO“úŒŽ)Cˆê‚ÂE“ñ‚Â‚È‚Ç‚Ì”‚¦ã‚°Cˆê‰ñ¶E“ñ‰ñ¶ ˆÈŠO‚Í**”¼ŠpƒAƒ‰ƒrƒA”Žš**
-* ¼—ï“™F**”¼ŠpƒAƒ‰ƒrƒA”Žš**
-* “ú•tF**››››”N›ŒŽ›“ú**(—á1F2013”N10ŒŽ1“úC—á2F10ŒŽ1“úC2“úC3“ú)
-* ŠúŠÔF**›‚©ŒŽ(‚© ‚Í‚Ð‚ç‚ª‚È)**
+* æ•°å­—ï¼šå›ºæœ‰åè©ž(ä¾‹ï¼š2022å¹´åº¦ç¬¬äºŒå›žç·ä¼š)ï¼Œæ…£ç”¨å¥(ä¸‰æ—¥æœˆ)ï¼Œä¸€ã¤ãƒ»äºŒã¤ãªã©ã®æ•°ãˆä¸Šã’ï¼Œä¸€å›žç”Ÿãƒ»äºŒå›žç”Ÿ ä»¥å¤–ã¯**åŠè§’ã‚¢ãƒ©ãƒ“ã‚¢æ•°å­—**
+* è¥¿æš¦ç­‰ï¼š**åŠè§’ã‚¢ãƒ©ãƒ“ã‚¢æ•°å­—**
+* æ—¥ä»˜ï¼š**â—‹â—‹â—‹â—‹å¹´â—‹æœˆâ—‹æ—¥**(ä¾‹1ï¼š2013å¹´10æœˆ1æ—¥ï¼Œä¾‹2ï¼š10æœˆ1æ—¥ï¼Œ2æ—¥ï¼Œ3æ—¥)
+* æœŸé–“ï¼š**â—‹ã‹æœˆ(ã‹ ã¯ã²ã‚‰ãŒãª)**
 
-* ‹å“Ç“_F**CD(‚»‚ê‚¼‚ê‘SŠp)**
-* ƒJƒ“ƒ}EƒsƒŠƒIƒh‚à‘SŠp‚Å‚¨Šè‚¢‚µ‚Ü‚·(–{—ˆ”¼Šp‚Å‚È‚¯‚ê‚Î‚È‚ç‚¢‚à‚Ì‚ðœ‚­(—áFƒtƒ@ƒCƒ‹–¼CURL))
-* Š‡ŒÊF**( )(‚»‚ê‚¼‚ê”¼Šp)**
-* ƒJƒMƒJƒbƒRF**uv(wx‚â""‚Íuv‚Ö)**
-* ‰p”ŽšF**Œ´‘¥”¼Šp**
+* å¥èª­ç‚¹ï¼š**ï¼Œï¼Ž(ãã‚Œãžã‚Œå…¨è§’)**
+* ã‚«ãƒ³ãƒžãƒ»ãƒ”ãƒªã‚ªãƒ‰ã‚‚å…¨è§’ã§ãŠé¡˜ã„ã—ã¾ã™(æœ¬æ¥åŠè§’ã§ãªã‘ã‚Œã°ãªã‚‰ã„ã‚‚ã®ã‚’é™¤ã(ä¾‹ï¼šãƒ•ã‚¡ã‚¤ãƒ«åï¼ŒURL))
+* æ‹¬å¼§ï¼š**( )(ãã‚Œãžã‚ŒåŠè§’)**
+* ã‚«ã‚®ã‚«ãƒƒã‚³ï¼š**ã€Œã€(ã€Žã€ã‚„""ã¯ã€Œã€ã¸)**
+* è‹±æ•°å­—ï¼š**åŽŸå‰‡åŠè§’**
 
-* RCCE“–‰ïE–{‰ïF**–{‰ï**
-* –{‹ÇE“–‹ÇF**–{‹Ç**
-* ‰ïˆõE•”ˆõF**‰ïˆõ**
-* ’è—á‰ï‹cE—á‰ïF**’è—á‰ï‹c**
-* ƒT[ƒNƒ‹ƒ‹[ƒ€E•”ŽºF**ƒT[ƒNƒ‹ƒ‹[ƒ€**
-* ƒvƒƒWƒFƒNƒg”­•\‰ïE¬‰Ê”­•\‰ïF**ƒvƒƒWƒFƒNƒg”­•\‰ï**
-* 2021”N“xEð”N“xE‘O”N“xF**2021”N“x**
-* 2022”N“xE¡”N“xF**2022”N“x**
-* 2023”N“xE—ˆ”N“xEŽŸ”N“xF**2023”N“x**
-* ‘OŠúEtŠwŠúF**tŠwŠú**
-* ŒãŠúEHŠwŠúF**HŠwŠú**
+* RCCãƒ»å½“ä¼šãƒ»æœ¬ä¼šï¼š**æœ¬ä¼š**
+* æœ¬å±€ãƒ»å½“å±€ï¼š**æœ¬å±€**
+* ä¼šå“¡ãƒ»éƒ¨å“¡ï¼š**ä¼šå“¡**
+* å®šä¾‹ä¼šè­°ãƒ»ä¾‹ä¼šï¼š**å®šä¾‹ä¼šè­°**
+* ã‚µãƒ¼ã‚¯ãƒ«ãƒ«ãƒ¼ãƒ ãƒ»éƒ¨å®¤ï¼š**ã‚µãƒ¼ã‚¯ãƒ«ãƒ«ãƒ¼ãƒ **
+* ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆç™ºè¡¨ä¼šãƒ»æˆæžœç™ºè¡¨ä¼šï¼š**ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆç™ºè¡¨ä¼š**
+* 2021å¹´åº¦ãƒ»æ˜¨å¹´åº¦ãƒ»å‰å¹´åº¦ï¼š**2021å¹´åº¦**
+* 2022å¹´åº¦ãƒ»ä»Šå¹´åº¦ï¼š**2022å¹´åº¦**
+* 2023å¹´åº¦ãƒ»æ¥å¹´åº¦ãƒ»æ¬¡å¹´åº¦ï¼š**2023å¹´åº¦**
+* å‰æœŸãƒ»æ˜¥å­¦æœŸï¼š**æ˜¥å­¦æœŸ**
+* å¾ŒæœŸãƒ»ç§‹å­¦æœŸï¼š**ç§‹å­¦æœŸ**
 
-* ‚¨‚±‚È‚¤F**s‚¤**(‚È”²‚«)
-* ‚Ð‚«‚Ã‚«F**ˆø‚«Œp‚¬**iˆøŒp‚¬‚âˆøŒp‚Å‚Í‚È‚¢j
+* ãŠã“ãªã†ï¼š**è¡Œã†**(ãªæŠœã)
+* ã²ãã¥ãï¼š**å¼•ãç¶™ãŽ**ï¼ˆå¼•ç¶™ãŽã‚„å¼•ç¶™ã§ã¯ãªã„ï¼‰
 
-ŠÔˆá‚¦‚â‚·‚¢—pŒê
+é–“é•ãˆã‚„ã™ã„ç”¨èªž
 
-* **ƒGƒ|ƒbƒN—§–½21**FƒGƒ|ƒbƒN‚âƒGƒ|ƒbƒN21‚ÍŠÔˆá‚¢‚Å‚·
-* **‰ÄŠú/“~Šú‹x‰É** F ‹Gß‚Ì‹G‚Å‚Í‚È‚­CŠúŠÔ‚ÌŠú‚Å‚·
+* **ã‚¨ãƒãƒƒã‚¯ç«‹å‘½21**ï¼šã‚¨ãƒãƒƒã‚¯ã‚„ã‚¨ãƒãƒƒã‚¯21ã¯é–“é•ã„ã§ã™
+* **å¤æœŸ/å†¬æœŸä¼‘æš‡** ï¼š å­£ç¯€ã®å­£ã§ã¯ãªãï¼ŒæœŸé–“ã®æœŸã§ã™
 
-ŠeŽíƒT[ƒrƒX–¼Ì
+å„ç¨®ã‚µãƒ¼ãƒ“ã‚¹åç§°
 
-* **RCC Wiki**F‰ï“àWikiƒVƒXƒeƒ€‚ðŽw‚·ê‡‚ÍCRCC Wiki‚Å“ˆê‚µ‚Ä‚­‚¾‚³‚¢D
-* **GoogleŒnƒT[ƒrƒX**F‘S‚ÄƒT[ƒrƒX–¼‚ÍƒJƒ^ƒJƒi‚Å‹Lq‚µ‚Ä‚­‚¾‚³‚¢Di—áFGoogleƒhƒ‰ƒCƒuEGoogleƒhƒLƒ…ƒƒ“ƒgEGoogleƒtƒH[ƒ€j
+* **RCC Wiki**ï¼šä¼šå†…Wikiã‚·ã‚¹ãƒ†ãƒ ã‚’æŒ‡ã™å ´åˆã¯ï¼ŒRCC Wikiã§çµ±ä¸€ã—ã¦ãã ã•ã„ï¼Ž
+* **Googleç³»ã‚µãƒ¼ãƒ“ã‚¹**ï¼šå…¨ã¦ã‚µãƒ¼ãƒ“ã‚¹åã¯ã‚«ã‚¿ã‚«ãƒŠã§è¨˜è¿°ã—ã¦ãã ã•ã„ï¼Žï¼ˆä¾‹ï¼šGoogleãƒ‰ãƒ©ã‚¤ãƒ–ãƒ»Googleãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆãƒ»Googleãƒ•ã‚©ãƒ¼ãƒ ï¼‰
 
-È—ªŒn—pŒêiÈ—ª‹L–@‚ÍCÅI”Å”­s‘O‚ÉŽ·sˆÏˆõ’·EƒVƒXƒeƒ€ŠÇ—‹Ç‚ªC³‚ðs‚¢‚Ü‚·j
+çœç•¥ç³»ç”¨èªžï¼ˆçœç•¥è¨˜æ³•ã¯ï¼Œæœ€çµ‚ç‰ˆç™ºè¡Œå‰ã«åŸ·è¡Œå§”å“¡é•·ãƒ»ã‚·ã‚¹ãƒ†ãƒ ç®¡ç†å±€ãŒä¿®æ­£ã‚’è¡Œã„ã¾ã™ï¼‰
 
-* **KC3**FŠÖ¼î•ñŒnŠw¶’c‘ÌŒð—¬‰ï‚ÍuKC3v‚Å‹Lq‚µ‚Ä‚­‚¾‚³‚¢D
-* **LT**Fƒ‰ƒCƒgƒjƒ“ƒOƒg[ƒN‚ÍuLTv‚Å‹Lq‚µ‚Ä‚­‚¾‚³‚¢D
+* **KC3**ï¼šé–¢è¥¿æƒ…å ±ç³»å­¦ç”Ÿå›£ä½“äº¤æµä¼šã¯ã€ŒKC3ã€ã§è¨˜è¿°ã—ã¦ãã ã•ã„ï¼Ž
+* **LT**ï¼šãƒ©ã‚¤ãƒˆãƒ‹ãƒ³ã‚°ãƒˆãƒ¼ã‚¯ã¯ã€ŒLTã€ã§è¨˜è¿°ã—ã¦ãã ã•ã„ï¼Ž
 
 
-Git‚Å‚Ìì‹Æ‚É‚Â‚¢‚Ä
+Gitã§ã®ä½œæ¥­ã«ã¤ã„ã¦
 -----------------------
-‘‰ï•¶‘‚ÍCGit‚ÅŠÇ—‚³‚ê‚Ä‚¢‚Ü‚·D
-‚±‚±‚Å‚ÍCGit‚ðŽg‚Á‚½Ž·•Mì‹Æ‚ðà–¾‚µ‚Ü‚·D
+ç·ä¼šæ–‡æ›¸ã¯ï¼ŒGitã§ç®¡ç†ã•ã‚Œã¦ã„ã¾ã™ï¼Ž
+ã“ã“ã§ã¯ï¼ŒGitã‚’ä½¿ã£ãŸåŸ·ç­†ä½œæ¥­ã‚’èª¬æ˜Žã—ã¾ã™ï¼Ž
 
-ƒRƒ}ƒ“ƒh‚ª‚í‚©‚él‚ÍC‚±‚Ì’Ê‚è‚Éì‹Æ‚·‚é‚Æ‚¢‚¢Š´‚¶‚É‚È‚é‚Å‚µ‚å‚¤D
-SourceTree(GUIƒc[ƒ‹)‚ð—˜—p‚·‚é•û‚ÍC‚»‚ê‚Á‚Û‚¢à–¾‚ðŠæ’£‚Á‚Ä‰ð“Ç‚µ‚Ä‚­‚¾‚³‚¢D
+ã‚³ãƒžãƒ³ãƒ‰ãŒã‚ã‹ã‚‹äººã¯ï¼Œã“ã®é€šã‚Šã«ä½œæ¥­ã™ã‚‹ã¨ã„ã„æ„Ÿã˜ã«ãªã‚‹ã§ã—ã‚‡ã†ï¼Ž
+SourceTree(GUIãƒ„ãƒ¼ãƒ«)ã‚’åˆ©ç”¨ã™ã‚‹æ–¹ã¯ï¼Œãã‚Œã£ã½ã„èª¬æ˜Žã‚’é ‘å¼µã£ã¦è§£èª­ã—ã¦ãã ã•ã„ï¼Ž
 
-### ì‹Æ‚ðŽn‚ß‚é‘O‚É
-ì‹Æ‚ðŽn‚ß‚é‘O‚ÉC‚±‚ÌƒŠƒ|ƒWƒgƒŠ‚ðƒNƒ[ƒ“(clone)‚·‚é•K—v‚ª‚ ‚è‚Ü‚·D
-Œ¾‚¢Š·‚¦‚ê‚ÎC‘‰ï‹cˆÄ‘‚Æ‚»‚ê‚ðŠÇ—‚·‚éGit‚Ìƒf[ƒ^‚ðŽæ“¾‚·‚é‚Æ‚¢‚¤‚±‚Æ‚Å‚·D
+### ä½œæ¥­ã‚’å§‹ã‚ã‚‹å‰ã«
+ä½œæ¥­ã‚’å§‹ã‚ã‚‹å‰ã«ï¼Œã“ã®ãƒªãƒã‚¸ãƒˆãƒªã‚’ã‚¯ãƒ­ãƒ¼ãƒ³(clone)ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ï¼Ž
+è¨€ã„æ›ãˆã‚Œã°ï¼Œç·ä¼šè­°æ¡ˆæ›¸ã¨ãã‚Œã‚’ç®¡ç†ã™ã‚‹Gitã®ãƒ‡ãƒ¼ã‚¿ã‚’å–å¾—ã™ã‚‹ã¨ã„ã†ã“ã¨ã§ã™ï¼Ž
 
-* SSH‚Å‚ÌƒNƒ[ƒ“: `$ git clone git@github.com:ritscc/soukai-2022-2.git`
-* HTTPS‚Å‚ÌƒNƒ[ƒ“: `$ git clone https://github.com/ritscc/soukai-2022-2.git`
+* SSHã§ã®ã‚¯ãƒ­ãƒ¼ãƒ³: `$ git clone git@github.com:ritscc/soukai-2022-2.git`
+* HTTPSã§ã®ã‚¯ãƒ­ãƒ¼ãƒ³: `$ git clone https://github.com/ritscc/soukai-2022-2.git`
 
-SSH‚ÌÝ’è‚µ‚Ä‚¢‚È‚¢•û‚ÍHTTPS‚©‚çƒNƒ[ƒ“‚µ‚Ä‚­‚¾‚³‚¢D
-SSH‚ÅƒNƒ[ƒ“‚µ‚Ä‚¨‚­‚ÆCƒRƒ~ƒbƒgì‹Æ‚ªŠy‚Å‚·D
-Œã‚©‚ç‚Å‚à`$ git remote`‚ðŽg‚Á‚ÄC•ÏX‚Å‚«‚Ü‚·‚Ì‚ÅCÝ’è‚µ‚Ä‚¨‚­‚Æ‚æ‚¢‚Å‚µ‚å‚¤D
+SSHã®è¨­å®šã—ã¦ã„ãªã„æ–¹ã¯HTTPSã‹ã‚‰ã‚¯ãƒ­ãƒ¼ãƒ³ã—ã¦ãã ã•ã„ï¼Ž
+SSHã§ã‚¯ãƒ­ãƒ¼ãƒ³ã—ã¦ãŠãã¨ï¼Œã‚³ãƒŸãƒƒãƒˆä½œæ¥­ãŒæ¥½ã§ã™ï¼Ž
+å¾Œã‹ã‚‰ã§ã‚‚`$ git remote`ã‚’ä½¿ã£ã¦ï¼Œå¤‰æ›´ã§ãã¾ã™ã®ã§ï¼Œè¨­å®šã—ã¦ãŠãã¨ã‚ˆã„ã§ã—ã‚‡ã†ï¼Ž
 
-### ƒuƒ‰ƒ“ƒ`‚É‚Â‚¢‚Ä
-Šî–{“I‚ÉCŽŸ‚Ì2–{‚Ìƒuƒ‰ƒ“ƒ`‚ª‘¶Ý‚µ‚Ä‚¢‚Ü‚·D
+### ãƒ–ãƒ©ãƒ³ãƒã«ã¤ã„ã¦
+åŸºæœ¬çš„ã«ï¼Œæ¬¡ã®2æœ¬ã®ãƒ–ãƒ©ãƒ³ãƒãŒå­˜åœ¨ã—ã¦ã„ã¾ã™ï¼Ž
 
-- master/main : ƒo[ƒWƒ‡ƒ“‚ª‚Å‚«ŽŸ‘æC‚±‚±‚Éƒ}[ƒW(“‡)‚³‚ê‚Ü‚·D‚±‚±‚Í•’iXV‚³‚ê‚Ü‚¹‚ñD
-- develop : ŠJ”­—pƒuƒ‰ƒ“ƒ`‚Å‚·D‚±‚±‚Éì‹Æ—pƒuƒ‰ƒ“ƒ`‚ðƒ}[ƒW‚µ‚Ä‚¢‚­‚±‚Æ‚ÅŽ·•M‚ði‚ß‚Ü‚·D
+- master/main : ãƒãƒ¼ã‚¸ãƒ§ãƒ³ãŒã§ãæ¬¡ç¬¬ï¼Œã“ã“ã«ãƒžãƒ¼ã‚¸(çµ±åˆ)ã•ã‚Œã¾ã™ï¼Žã“ã“ã¯æ™®æ®µæ›´æ–°ã•ã‚Œã¾ã›ã‚“ï¼Ž
+- develop : é–‹ç™ºç”¨ãƒ–ãƒ©ãƒ³ãƒã§ã™ï¼Žã“ã“ã«ä½œæ¥­ç”¨ãƒ–ãƒ©ãƒ³ãƒã‚’ãƒžãƒ¼ã‚¸ã—ã¦ã„ãã“ã¨ã§åŸ·ç­†ã‚’é€²ã‚ã¾ã™ï¼Ž
 
-### ì‹Æ‚Ì—¬‚êiƒ[ƒNƒtƒ[j
-1. Ž©•ª‚ªs‚¤ì‹Æ‚ðuIssue/ƒCƒVƒ…[i‰Û‘èjv‚Æ‚µ‚Äì¬‚µ‚Ü‚·DŠù‚ÉƒCƒVƒ…[‚ª“o˜^‚³‚ê‚Ä‚¢‚ê‚ÎC‚±‚Ìì‹Æ‚Í•s—v‚Å‚·D
-   GitHub‚ÌuIssuesvƒy[ƒW<https://github.com/ritscc/soukai-2022-2/issues>‚ÌuNew Isuuevƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚ÄCƒCƒVƒ…[‚ðì¬‚µ‚Ü‚·D
-   ƒ^ƒCƒgƒ‹‚âà–¾‚ÍC‘¼‚Ìl‚ª“Ç‚ñ‚Å‚à‚í‚©‚é‚æ‚¤‚É‘‚¢‚Ä‚­‚¾‚³‚¢D
-   ’S“–ŽÒ‚Í’S“–‚·‚él‚ÉŠ„‚è“–‚Ä‚µ‚Ä‚­‚¾‚³‚¢D
+### ä½œæ¥­ã®æµã‚Œï¼ˆãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ï¼‰
+1. è‡ªåˆ†ãŒè¡Œã†ä½œæ¥­ã‚’ã€ŒIssue/ã‚¤ã‚·ãƒ¥ãƒ¼ï¼ˆèª²é¡Œï¼‰ã€ã¨ã—ã¦ä½œæˆã—ã¾ã™ï¼Žæ—¢ã«ã‚¤ã‚·ãƒ¥ãƒ¼ãŒç™»éŒ²ã•ã‚Œã¦ã„ã‚Œã°ï¼Œã“ã®ä½œæ¥­ã¯ä¸è¦ã§ã™ï¼Ž
+   GitHubã®ã€ŒIssuesã€ãƒšãƒ¼ã‚¸<https://github.com/ritscc/soukai-2022-2/issues>ã®ã€ŒNew Isuueã€ãƒœã‚¿ãƒ³ã‚’æŠ¼ã—ã¦ï¼Œã‚¤ã‚·ãƒ¥ãƒ¼ã‚’ä½œæˆã—ã¾ã™ï¼Ž
+   ã‚¿ã‚¤ãƒˆãƒ«ã‚„èª¬æ˜Žã¯ï¼Œä»–ã®äººãŒèª­ã‚“ã§ã‚‚ã‚ã‹ã‚‹ã‚ˆã†ã«æ›¸ã„ã¦ãã ã•ã„ï¼Ž
+   æ‹…å½“è€…ã¯æ‹…å½“ã™ã‚‹äººã«å‰²ã‚Šå½“ã¦ã—ã¦ãã ã•ã„ï¼Ž
 
-2. ì‹Æ‘O‚ÉC`$ git pull`‚µ‚Ä‚¨‚«‚Ü‚·D‚±‚¤‚·‚é‚±‚Æ‚ÅCì‹Æ‚ÌÕ“Ë(ƒRƒ“ƒtƒŠƒNƒg)‚ð­‚È‚­‚³‚¹‚ç‚ê‚Ü‚·D
+2. ä½œæ¥­å‰ã«ï¼Œ`$ git pull`ã—ã¦ãŠãã¾ã™ï¼Žã“ã†ã™ã‚‹ã“ã¨ã§ï¼Œä½œæ¥­ã®è¡çª(ã‚³ãƒ³ãƒ•ãƒªã‚¯ãƒˆ)ã‚’å°‘ãªãã•ã›ã‚‰ã‚Œã¾ã™ï¼Ž
 
-3. ’S“–ŽÒ‚ÍCdevelopƒuƒ‰ƒ“ƒ`‚ð‹N“_‚ÉCì‹Æ—pƒuƒ‰ƒ“ƒ`(branch)‚ðì¬‚µ‚Ü‚·D
+3. æ‹…å½“è€…ã¯ï¼Œdevelopãƒ–ãƒ©ãƒ³ãƒã‚’èµ·ç‚¹ã«ï¼Œä½œæ¥­ç”¨ãƒ–ãƒ©ãƒ³ãƒ(branch)ã‚’ä½œæˆã—ã¾ã™ï¼Ž
    `$ git checkout -b <branchname> develop`
-   ƒuƒ‰ƒ“ƒ`–¼‚Íd•¡‚µ‚È‚¢‚æ‚¤‚É”CˆÓ‚Å\‚¢‚Ü‚¹‚ñD
-   ƒuƒ‰ƒ“ƒ`–¼‚ÉƒCƒVƒ…[”Ô†‚ðŠÜ‚ß‚Ä‚¨‚­‚Æƒuƒ‰ƒ“ƒ`‚ð’T‚µ‚â‚·‚­‚È‚èCd•¡‚à‚µ‚È‚¢‚Ì‚ÅƒIƒXƒXƒ‚Å‚·D
-   ƒCƒVƒ…[”Ô†‚ÍC‰Û‘è–¼‚Ì¶‰º‚É`#<”Žš>`‚ÌŒ`Ž®‚Å‘‚©‚ê‚Ä‚¢‚Ü‚·D
+   ãƒ–ãƒ©ãƒ³ãƒåã¯é‡è¤‡ã—ãªã„ã‚ˆã†ã«ä»»æ„ã§æ§‹ã„ã¾ã›ã‚“ï¼Ž
+   ãƒ–ãƒ©ãƒ³ãƒåã«ã‚¤ã‚·ãƒ¥ãƒ¼ç•ªå·ã‚’å«ã‚ã¦ãŠãã¨ãƒ–ãƒ©ãƒ³ãƒã‚’æŽ¢ã—ã‚„ã™ããªã‚Šï¼Œé‡è¤‡ã‚‚ã—ãªã„ã®ã§ã‚ªã‚¹ã‚¹ãƒ¡ã§ã™ï¼Ž
+   ã‚¤ã‚·ãƒ¥ãƒ¼ç•ªå·ã¯ï¼Œèª²é¡Œåã®å·¦ä¸‹ã«`#<æ•°å­—>`ã®å½¢å¼ã§æ›¸ã‹ã‚Œã¦ã„ã¾ã™ï¼Ž
 
-4. •ÒW‚µ‚Ü‚·D
-   •ÒW•û–@‚ÍC‰º‚Ìu•¶‘‚ÌŽ·•Mì‹Æ‚É‚Â‚¢‚Äv‚ÌÍ‚ð‚¨“Ç‚Ý‚­‚¾‚³‚¢D
+4. ç·¨é›†ã—ã¾ã™ï¼Ž
+   ç·¨é›†æ–¹æ³•ã¯ï¼Œä¸‹ã®ã€Œæ–‡æ›¸ã®åŸ·ç­†ä½œæ¥­ã«ã¤ã„ã¦ã€ã®ç« ã‚’ãŠèª­ã¿ãã ã•ã„ï¼Ž
 
-5. ƒLƒŠ‚Ì—Ç‚¢Š‚ÅCƒtƒ@ƒCƒ‹‚ð’Ç‰Á(add)‚µ‚ÄƒRƒ~ƒbƒg(commit)‚µ‚Ü‚·D
+5. ã‚­ãƒªã®è‰¯ã„æ‰€ã§ï¼Œãƒ•ã‚¡ã‚¤ãƒ«ã‚’è¿½åŠ (add)ã—ã¦ã‚³ãƒŸãƒƒãƒˆ(commit)ã—ã¾ã™ï¼Ž
    `$ git add <filename>..`
    `$ git commit`
-   ƒRƒ~ƒbƒgŽž‚ÍCì‹Æ“à—e‚ª‚í‚©‚é‚æ‚¤‚É‘‚¢‚Ä‚­‚¾‚³‚¢D
-   ‚Ü‚½CƒRƒ~ƒbƒg‚Ì‚Ç‚ê‚©‚É`Reopen #<ƒCƒVƒ…[”Ô†>`‚ðŠÜ‚ß‚é‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢D
+   ã‚³ãƒŸãƒƒãƒˆæ™‚ã¯ï¼Œä½œæ¥­å†…å®¹ãŒã‚ã‹ã‚‹ã‚ˆã†ã«æ›¸ã„ã¦ãã ã•ã„ï¼Ž
+   ã¾ãŸï¼Œã‚³ãƒŸãƒƒãƒˆã®ã©ã‚Œã‹ã«`Reopen #<ã‚¤ã‚·ãƒ¥ãƒ¼ç•ªå·>`ã‚’å«ã‚ã‚‹ã‚ˆã†ã«ã—ã¦ãã ã•ã„ï¼Ž
 
-6. Š®¬‚µ‚½‚çƒŠƒ|ƒWƒgƒŠ‚ÉƒvƒbƒVƒ…(push)‚µ‚Ü‚·D
+6. å®Œæˆã—ãŸã‚‰ãƒªãƒã‚¸ãƒˆãƒªã«ãƒ—ãƒƒã‚·ãƒ¥(push)ã—ã¾ã™ï¼Ž
    `$ git push origin <branchname>`
-   __(’)__ ‚È‚¨Cæ‚Ù‚Ç‹“‚°‚½master‚Ædevelop‚É‚ÍƒvƒbƒVƒ…‚Å‚«‚Ü‚¹‚ñDŒ ŒÀ‚ÌŠÇ—‚ðs‚Á‚Ä‚¢‚Ü‚·D
+   __(æ³¨)__ ãªãŠï¼Œå…ˆã»ã©æŒ™ã’ãŸmasterã¨developã«ã¯ãƒ—ãƒƒã‚·ãƒ¥ã§ãã¾ã›ã‚“ï¼Žæ¨©é™ã®ç®¡ç†ã‚’è¡Œã£ã¦ã„ã¾ã™ï¼Ž
 
-7. <https://github.com/ritscc/soukai-2022-2/pulls>‚©‚çƒvƒ‹ƒŠƒNƒGƒXƒg(Pull request)‚ðì¬‚µ‚Ü‚·D
-   ‰æ–Ê‰Eã‚Ì•û‚ÌuNew pull requestv‚Ìƒ{ƒ^ƒ“‚©‚çì¬‚µ‚Ä‚­‚¾‚³‚¢D
-   __(’)__ ƒ^ƒCƒgƒ‹‚ÍC‰Û‘è”Ô†‚ð`Fix #<ƒCƒVƒ…[”Ô†> : <ì‹Æ“à—e>`‚Æ‚¢‚¤Œ`Ž®‚Å‹Lq‚µ‚Ä‚­‚¾‚³‚¢D
-   ¶ibase)‚É‚Í`develop`‚Ìƒuƒ‰ƒ“ƒ`‚ðC‰E(compare)‚É‚ÍCæ‚Ù‚ÇŽ©•ª‚ªƒvƒbƒVƒ…(push)‚µ‚½ƒuƒ‰ƒ“ƒ`‚ðƒZƒbƒg‚µ‚Ü‚·D
-   `Reviewers`‚ÉC‹Çˆõ‚â‹¤“¯’S“–ŽÒ‚ðÝ’è‚µ‚Ä‚¨‚­‚ÆCƒvƒ‹ƒŠƒNƒGƒXƒg‚ðì¬‚µ‚½Ž|‚ª’Ê’m‚³‚ê‚Ü‚·‚Ì‚ÅCŠˆ—p‚µ‚Ü‚µ‚å‚¤D
-   ¦ ‚È‚¨Cƒvƒ‹ƒŠƒNƒGƒXƒg‚ÍCŽ©•ª‚Ìƒuƒ‰ƒ“ƒ`‚ðƒx[ƒXƒuƒ‰ƒ“ƒ`‚Éƒ}[ƒW‚µ‚½‚¢‚Æ‚¢‚¤\¿‚Ì‚±‚Æ‚Å‚·D
+7. <https://github.com/ritscc/soukai-2022-2/pulls>ã‹ã‚‰ãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆ(Pull request)ã‚’ä½œæˆã—ã¾ã™ï¼Ž
+   ç”»é¢å³ä¸Šã®æ–¹ã®ã€ŒNew pull requestã€ã®ãƒœã‚¿ãƒ³ã‹ã‚‰ä½œæˆã—ã¦ãã ã•ã„ï¼Ž
+   __(æ³¨)__ ã‚¿ã‚¤ãƒˆãƒ«ã¯ï¼Œèª²é¡Œç•ªå·ã‚’`Fix #<ã‚¤ã‚·ãƒ¥ãƒ¼ç•ªå·> : <ä½œæ¥­å†…å®¹>`ã¨ã„ã†å½¢å¼ã§è¨˜è¿°ã—ã¦ãã ã•ã„ï¼Ž
+   å·¦ï¼ˆbase)ã«ã¯`develop`ã®ãƒ–ãƒ©ãƒ³ãƒã‚’ï¼Œå³(compare)ã«ã¯ï¼Œå…ˆã»ã©è‡ªåˆ†ãŒãƒ—ãƒƒã‚·ãƒ¥(push)ã—ãŸãƒ–ãƒ©ãƒ³ãƒã‚’ã‚»ãƒƒãƒˆã—ã¾ã™ï¼Ž
+   `Reviewers`ã«ï¼Œå±€å“¡ã‚„å…±åŒæ‹…å½“è€…ã‚’è¨­å®šã—ã¦ãŠãã¨ï¼Œãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚’ä½œæˆã—ãŸæ—¨ãŒé€šçŸ¥ã•ã‚Œã¾ã™ã®ã§ï¼Œæ´»ç”¨ã—ã¾ã—ã‚‡ã†ï¼Ž
+   â€» ãªãŠï¼Œãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆã¯ï¼Œè‡ªåˆ†ã®ãƒ–ãƒ©ãƒ³ãƒã‚’ãƒ™ãƒ¼ã‚¹ãƒ–ãƒ©ãƒ³ãƒã«ãƒžãƒ¼ã‚¸ã—ãŸã„ã¨ã„ã†ç”³è«‹ã®ã“ã¨ã§ã™ï¼Ž
 
-8. ‚ ‚Æ‚ÍƒŒƒrƒ…[‚³‚ê‚Ä‚­‚¾‚³‚¢D‚Ý‚ñ‚È‚ÍƒŒƒrƒ…[‚µ‚Ä‚­‚¾‚³‚¢D
-   –â‘è“_‚ª‚ ‚ê‚ÎCƒvƒ‹ƒŠƒNƒGƒXƒg‚ÌƒRƒƒ“ƒg‚ðŽg‚Á‚ÄC–â‘è“_‚ðŽw“E‚µ‚Ä‚­‚¾‚³‚¢D
-   ‚±‚±‚Å–â‘è‚È‚¢‚Æ”»’f‚µ‚½‚ç__13__‚É”ò‚ñ‚Å‚­‚¾‚³‚¢D
+8. ã‚ã¨ã¯ãƒ¬ãƒ“ãƒ¥ãƒ¼ã•ã‚Œã¦ãã ã•ã„ï¼Žã¿ã‚“ãªã¯ãƒ¬ãƒ“ãƒ¥ãƒ¼ã—ã¦ãã ã•ã„ï¼Ž
+   å•é¡Œç‚¹ãŒã‚ã‚Œã°ï¼Œãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆã®ã‚³ãƒ¡ãƒ³ãƒˆã‚’ä½¿ã£ã¦ï¼Œå•é¡Œç‚¹ã‚’æŒ‡æ‘˜ã—ã¦ãã ã•ã„ï¼Ž
+   ã“ã“ã§å•é¡Œãªã„ã¨åˆ¤æ–­ã—ãŸã‚‰__13__ã«é£›ã‚“ã§ãã ã•ã„ï¼Ž
 
-9. Žw“E‚È‚Ç‚ª‚ ‚èC•ÏX‚Ì•K—v‚ª‚ ‚éê‡‚ÍCæ‚Ù‚Ç‚Ìƒuƒ‰ƒ“ƒ`‚ÅC•ÒW‚µ‚È‚¨‚µ‚Ü‚·D
+9. æŒ‡æ‘˜ãªã©ãŒã‚ã‚Šï¼Œå¤‰æ›´ã®å¿…è¦ãŒã‚ã‚‹å ´åˆã¯ï¼Œå…ˆã»ã©ã®ãƒ–ãƒ©ãƒ³ãƒã§ï¼Œç·¨é›†ã—ãªãŠã—ã¾ã™ï¼Ž
 
-10. •ÒW‚Å‚«‚½‚çC__addCcommitCpush!!!!!!__
+10. ç·¨é›†ã§ããŸã‚‰ï¼Œ__addï¼Œcommitï¼Œpush!!!!!!__
 
-11. Ž©•ª‚ªì¬‚µ‚½ƒvƒ‹ƒŠƒNƒGƒXƒg‚Ìƒy[ƒW‚©‚çCC³‚µ‚½“_‚ðƒRƒƒ“ƒg‚É‚µ‚ÄŽc‚µ‚Ä‚¨‚«‚Ü‚µ‚å‚¤D
+11. è‡ªåˆ†ãŒä½œæˆã—ãŸãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆã®ãƒšãƒ¼ã‚¸ã‹ã‚‰ï¼Œä¿®æ­£ã—ãŸç‚¹ã‚’ã‚³ãƒ¡ãƒ³ãƒˆã«ã—ã¦æ®‹ã—ã¦ãŠãã¾ã—ã‚‡ã†ï¼Ž
 
-12. 8`11‚ðŒJ‚è•Ô‚µ‚Ä‚Ç‚ñ‚Ç‚ñ—Ç‚­‚µ‚Ä‚¢‚«‚Ü‚·D
+12. 8ï½ž11ã‚’ç¹°ã‚Šè¿”ã—ã¦ã©ã‚“ã©ã‚“è‰¯ãã—ã¦ã„ãã¾ã™ï¼Ž
 
-13. ƒŒƒrƒ…[‚µ‚Ä–â‘è–³‚¢‚Æ”»’f‚µ‚½l‚ÍCƒvƒ‹ƒŠƒNƒGƒXƒgƒy[ƒW“à‚Ì`Files changed`‚ðŠJ‚«C
-    `Review Changes`‚©‚çC`Approve`‚ð‘I‘ð‚µC`Submit review`‚ð‘—M‚µ‚Ü‚µ‚å‚¤D
+13. ãƒ¬ãƒ“ãƒ¥ãƒ¼ã—ã¦å•é¡Œç„¡ã„ã¨åˆ¤æ–­ã—ãŸäººã¯ï¼Œãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆãƒšãƒ¼ã‚¸å†…ã®`Files changed`ã‚’é–‹ãï¼Œ
+    `Review Changes`ã‹ã‚‰ï¼Œ`Approve`ã‚’é¸æŠžã—ï¼Œ`Submit review`ã‚’é€ä¿¡ã—ã¾ã—ã‚‡ã†ï¼Ž
 
-14. ‚¢‚¢Š´‚¶‚¾‚Á‚½‚çCŽ·sˆÏˆõ’·‚©ƒVƒXƒeƒ€ŠÇ—‹Ç’·‚Ì”»’f‚Ådevelopƒuƒ‰ƒ“ƒ`‚Éƒ}[ƒW(marge)‚³‚ê‚Ü‚·D
+14. ã„ã„æ„Ÿã˜ã ã£ãŸã‚‰ï¼ŒåŸ·è¡Œå§”å“¡é•·ã‹ã‚·ã‚¹ãƒ†ãƒ ç®¡ç†å±€é•·ã®åˆ¤æ–­ã§developãƒ–ãƒ©ãƒ³ãƒã«ãƒžãƒ¼ã‚¸(marge)ã•ã‚Œã¾ã™ï¼Ž
 
-‚È‚¨ƒ}[ƒW‚³‚ê‚½Œã‚ÉCdevelopƒuƒ‰ƒ“ƒ`‚ðƒvƒ‹(`$ git pull`)‚·‚é‚ÆCXV‚³‚ê‚Ä‚¢‚é‚Ì‚ªŠm”F‚Å‚«‚Ü‚·D
+ãªãŠãƒžãƒ¼ã‚¸ã•ã‚ŒãŸå¾Œã«ï¼Œdevelopãƒ–ãƒ©ãƒ³ãƒã‚’ãƒ—ãƒ«(`$ git pull`)ã™ã‚‹ã¨ï¼Œæ›´æ–°ã•ã‚Œã¦ã„ã‚‹ã®ãŒç¢ºèªã§ãã¾ã™ï¼Ž
 
 ```shell
 $ git pull
 $ git log
 ```
-‚í‚©‚ç‚È‚¯‚ê‚ÎSlack‚Ì[#soukai](https://ritscc.slack.com/messages/soukai/)‚Å‘Š’k‚µ‚Ä‚­‚¾‚³‚¢D‘Sˆõ‚Å‹¤—L‚µ‚Ü‚µ‚å‚¤D
+ã‚ã‹ã‚‰ãªã‘ã‚Œã°Slackã®[#soukai](https://ritscc.slack.com/messages/soukai/)ã§ç›¸è«‡ã—ã¦ãã ã•ã„ï¼Žå…¨å“¡ã§å…±æœ‰ã—ã¾ã—ã‚‡ã†ï¼Ž
 
-•¶‘‚ÌŽ·•Mì‹Æ‚É‚Â‚¢‚Ä
+æ–‡æ›¸ã®åŸ·ç­†ä½œæ¥­ã«ã¤ã„ã¦
 -------------------
 
-### ‘‰ï•¶‘‚Ì‘‚«•û
-Ž·•M‚Ì‘S‘Ì“I‚È—¬‚ê‚ð‚±‚±‚É‹LÚ‚µ‚Ü‚·D
-Git‚ðŽg‚Á‚½ì‹Æ‚Ì4‚Ü‚Å‚Ìì‹Æ‚ðŠ®—¹‚µ‚Ä‚¢‚é‚±‚Æ‚ð‘O’ñ‚Æ‚µ‚Ä‚¢‚Ü‚·‚Ì‚ÅC
-‚Ü‚¾ì‹Æ‚ðs‚Á‚Ä‚¢‚È‚¢•û‚Íì‹Æ‚ðÏ‚Ü‚¹‚Ä‚­‚¾‚³‚¢D
+### ç·ä¼šæ–‡æ›¸ã®æ›¸ãæ–¹
+åŸ·ç­†ã®å…¨ä½“çš„ãªæµã‚Œã‚’ã“ã“ã«è¨˜è¼‰ã—ã¾ã™ï¼Ž
+Gitã‚’ä½¿ã£ãŸä½œæ¥­ã®4ã¾ã§ã®ä½œæ¥­ã‚’å®Œäº†ã—ã¦ã„ã‚‹ã“ã¨ã‚’å‰æã¨ã—ã¦ã„ã¾ã™ã®ã§ï¼Œ
+ã¾ã ä½œæ¥­ã‚’è¡Œã£ã¦ã„ãªã„æ–¹ã¯ä½œæ¥­ã‚’æ¸ˆã¾ã›ã¦ãã ã•ã„ï¼Ž
 
-1. ’S“–‚µ‚Ä‚¢‚é‰ÓŠ‚É‘Î‰ž‚·‚éƒtƒ@ƒCƒ‹‚ðì¬C‚ ‚é‚¢‚ÍŠJ‚«‚Ü‚·D
-   Šî–{“I‚É‚ÍC’S“–‚µ‚Ä‚¢‚éuƒCƒVƒ…[v‚Ìƒy[ƒW‚É‹LÚ‚³‚ê‚Ä‚¢‚éƒtƒ@ƒCƒ‹‚ð•ÒW‚·‚ê‚Î‚æ‚¢‚Å‚µ‚å‚¤D
-   ‹LÚ‚ª‚È‚¢ê‡‚âƒ^ƒXƒN‚ª‚È‚¢ê‡‚ÍCuƒfƒBƒŒƒNƒgƒŠ\¬‚É‚Â‚¢‚Äv‚Ìß‚ðŽQl‚É‚µ‚Äƒtƒ@ƒCƒ‹‚ð”z’u‚µ‚Ä‚­‚¾‚³‚¢D
-2. Ž·•M‚µ‚Ü‚·D
-   Í‚âßCƒŠƒXƒg“™‚Ì•¶ÍˆÈŠO‚Ì•¶‘‚Ì\¬—v‘f‚ÍCLaTeXƒRƒ}ƒ“ƒh‚ð—p‚¢‚é‚Æ—Ç‚¢‚Å‚µ‚å‚¤D
-   ‘S‚Ä‚Ìtexƒtƒ@ƒCƒ‹‚ÍC`\subsection*{}`‚©‚çŽn‚ß‚é‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢D
-   ‚Ü‚½C`\writtenBy`ƒRƒ}ƒ“ƒh‚ðŽg‚Á‚Ä•¶Ó‚à‹Lq‚µ‚Ä‚­‚¾‚³‚¢D
-3. ‘‰ï•¶‘Ž·•M‚Å‚ÍC’S“–‰ÓŠ‚²‚Æ‚Éƒtƒ@ƒCƒ‹‚ð•ªŠ„‚µ‚Ä‚¢‚Ü‚·D
-   •ªŠ„‚³‚ê‚½ƒtƒ@ƒCƒ‹‚ÍCÍ‚Ìƒtƒ@ƒCƒ‹‚â‹Ç•Ê‚Ìƒtƒ@ƒCƒ‹‚ÅŽ©“®“I‚ÉŽæ‚èž‚Ü‚ê‚é‚æ‚¤‚É‚È‚Á‚Ä‚¢‚Ü‚·D
-   uƒfƒBƒŒƒNƒgƒŠ‚Ì\¬v‚Ìß‚ðŽQl‚É‚µ‚ÄC•ÒW‚·‚éƒtƒ@ƒCƒ‹‚ðŠm”F‚µ‚Ü‚µ‚å‚¤D
+1. æ‹…å½“ã—ã¦ã„ã‚‹ç®‡æ‰€ã«å¯¾å¿œã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œæˆï¼Œã‚ã‚‹ã„ã¯é–‹ãã¾ã™ï¼Ž
+   åŸºæœ¬çš„ã«ã¯ï¼Œæ‹…å½“ã—ã¦ã„ã‚‹ã€Œã‚¤ã‚·ãƒ¥ãƒ¼ã€ã®ãƒšãƒ¼ã‚¸ã«è¨˜è¼‰ã•ã‚Œã¦ã„ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç·¨é›†ã™ã‚Œã°ã‚ˆã„ã§ã—ã‚‡ã†ï¼Ž
+   è¨˜è¼‰ãŒãªã„å ´åˆã‚„ã‚¿ã‚¹ã‚¯ãŒãªã„å ´åˆã¯ï¼Œã€Œãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªæ§‹æˆã«ã¤ã„ã¦ã€ã®ç¯€ã‚’å‚è€ƒã«ã—ã¦ãƒ•ã‚¡ã‚¤ãƒ«ã‚’é…ç½®ã—ã¦ãã ã•ã„ï¼Ž
+2. åŸ·ç­†ã—ã¾ã™ï¼Ž
+   ç« ã‚„ç¯€ï¼Œãƒªã‚¹ãƒˆç­‰ã®æ–‡ç« ä»¥å¤–ã®æ–‡æ›¸ã®æ§‹æˆè¦ç´ ã¯ï¼ŒLaTeXã‚³ãƒžãƒ³ãƒ‰ã‚’ç”¨ã„ã‚‹ã¨è‰¯ã„ã§ã—ã‚‡ã†ï¼Ž
+   å…¨ã¦ã®texãƒ•ã‚¡ã‚¤ãƒ«ã¯ï¼Œ`\subsection*{}`ã‹ã‚‰å§‹ã‚ã‚‹ã‚ˆã†ã«ã—ã¦ãã ã•ã„ï¼Ž
+   ã¾ãŸï¼Œ`\writtenBy`ã‚³ãƒžãƒ³ãƒ‰ã‚’ä½¿ã£ã¦æ–‡è²¬ã‚‚è¨˜è¿°ã—ã¦ãã ã•ã„ï¼Ž
+3. ç·ä¼šæ–‡æ›¸åŸ·ç­†ã§ã¯ï¼Œæ‹…å½“ç®‡æ‰€ã”ã¨ã«ãƒ•ã‚¡ã‚¤ãƒ«ã‚’åˆ†å‰²ã—ã¦ã„ã¾ã™ï¼Ž
+   åˆ†å‰²ã•ã‚ŒãŸãƒ•ã‚¡ã‚¤ãƒ«ã¯ï¼Œç« ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚„å±€åˆ¥ã®ãƒ•ã‚¡ã‚¤ãƒ«ã§è‡ªå‹•çš„ã«å–ã‚Šè¾¼ã¾ã‚Œã‚‹ã‚ˆã†ã«ãªã£ã¦ã„ã¾ã™ï¼Ž
+   ã€Œãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã®æ§‹æˆã€ã®ç¯€ã‚’å‚è€ƒã«ã—ã¦ï¼Œç·¨é›†ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç¢ºèªã—ã¾ã—ã‚‡ã†ï¼Ž
 
-### LaTeX‚É‚Â‚¢‚Ä
-‘‰ï•¶‘‚ÍCLaTeXiƒ‰ƒeƒtj‚ð—p‚¢‚ÄŽ·•M‚µ‚Ü‚·D
-LaTeX‚ÍC‘Ð‚âŽGŽCƒŒƒ|[ƒgC˜_•¶‚È‚Ç‚ÌŽ·•M‚ÉL‚­Žg‚í‚ê‚Ä‚¢‚éCƒtƒŠ[‚Ì‘g”ÅƒVƒXƒeƒ€‚Å‚·D
-’S“–‰ÓŠ‚²‚Æ‚Éƒtƒ@ƒCƒ‹‚ð•ªŠ„‚µ‚ÄC1‚Â‚Ì•¶‘‚ð\¬‚·‚é‚±‚Æ‚ª‚Å‚«‚é‚½‚ßC•¡”l‚Å‚Ìì‹Æ‚É“K‚µ‚Ä‚¢‚Ü‚·D
+### LaTeXã«ã¤ã„ã¦
+ç·ä¼šæ–‡æ›¸ã¯ï¼ŒLaTeXï¼ˆãƒ©ãƒ†ãƒ•ï¼‰ã‚’ç”¨ã„ã¦åŸ·ç­†ã—ã¾ã™ï¼Ž
+LaTeXã¯ï¼Œæ›¸ç±ã‚„é›‘èªŒï¼Œãƒ¬ãƒãƒ¼ãƒˆï¼Œè«–æ–‡ãªã©ã®åŸ·ç­†ã«åºƒãä½¿ã‚ã‚Œã¦ã„ã‚‹ï¼Œãƒ•ãƒªãƒ¼ã®çµ„ç‰ˆã‚·ã‚¹ãƒ†ãƒ ã§ã™ï¼Ž
+æ‹…å½“ç®‡æ‰€ã”ã¨ã«ãƒ•ã‚¡ã‚¤ãƒ«ã‚’åˆ†å‰²ã—ã¦ï¼Œ1ã¤ã®æ–‡æ›¸ã‚’æ§‹æˆã™ã‚‹ã“ã¨ãŒã§ãã‚‹ãŸã‚ï¼Œè¤‡æ•°äººã§ã®ä½œæ¥­ã«é©ã—ã¦ã„ã¾ã™ï¼Ž
 
-LaTeX‚Ì‘‚«•û‚É‚Â‚¢‚Ä‚ÍCŠeŽ©ƒOƒO‚Á‚Ä‚­‚¾‚³‚¢D
+LaTeXã®æ›¸ãæ–¹ã«ã¤ã„ã¦ã¯ï¼Œå„è‡ªã‚°ã‚°ã£ã¦ãã ã•ã„ï¼Ž
 
-### •¶Í’†‚Å—˜—p‚Å‚«‚éƒRƒ}ƒ“ƒhˆê——
-¶‚Ì•\Œ»‚ð‹Lq‚µ‚½‚¢ê‡‚ÍC‰E‚ÌƒRƒ}ƒ“ƒh‚ð‹Lq‚·‚é‚±‚Æ‚Å•\Ž¦‚³‚¹‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·D
-`{}`‚Íˆø”‚Å‚·D
+### æ–‡ç« ä¸­ã§åˆ©ç”¨ã§ãã‚‹ã‚³ãƒžãƒ³ãƒ‰ä¸€è¦§
+å·¦ã®è¡¨ç¾ã‚’è¨˜è¿°ã—ãŸã„å ´åˆã¯ï¼Œå³ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’è¨˜è¿°ã™ã‚‹ã“ã¨ã§è¡¨ç¤ºã•ã›ã‚‹ã“ã¨ãŒã§ãã¾ã™ï¼Ž
+`{}`ã¯å¼•æ•°ã§ã™ï¼Ž
 
-* ‰ïŒv‹Ç `\kaikeiDepartment`
-* ‰ïŒv‹Ç’· `\kaikeiChief`
-* ‰ïŒv‹Çˆõ `\kaikeiStaff`
+* ä¼šè¨ˆå±€ `\kaikeiDepartment`
+* ä¼šè¨ˆå±€é•· `\kaikeiChief`
+* ä¼šè¨ˆå±€å“¡ `\kaikeiStaff`
 
-* Œ¤‹†„i‹Ç `\kensuiDepartment`
-* Œ¤‹†„i‹Ç’· `\kensuiChief`
-* Œ¤‹†„i‹Çˆõ `\kensuiStaff`
+* ç ”ç©¶æŽ¨é€²å±€ `\kensuiDepartment`
+* ç ”ç©¶æŽ¨é€²å±€é•· `\kensuiChief`
+* ç ”ç©¶æŽ¨é€²å±€å“¡ `\kensuiStaff`
 
-* ÂŠO‹Ç `\syogaiDepartment`
-* ÂŠO‹Ç’· `\syogaiChief`
-* ÂŠO‹Çˆõ `\syogaiStaff`
+* æ¸‰å¤–å±€ `\syogaiDepartment`
+* æ¸‰å¤–å±€é•· `\syogaiChief`
+* æ¸‰å¤–å±€å“¡ `\syogaiStaff`
 
-* ƒVƒXƒeƒ€ŠÇ—‹Ç `\systemDepartment`
-* ƒVƒXƒeƒ€ŠÇ—‹Ç’· `\systemChief`
-* ƒVƒXƒeƒ€ŠÇ—‹Çˆõ `\systemStaff`
+* ã‚·ã‚¹ãƒ†ãƒ ç®¡ç†å±€ `\systemDepartment`
+* ã‚·ã‚¹ãƒ†ãƒ ç®¡ç†å±€é•· `\systemChief`
+* ã‚·ã‚¹ãƒ†ãƒ ç®¡ç†å±€å“¡ `\systemStaff`
 
-* ‘–±‹Ç `\soumuDepartment`
-* ‘–±‹Ç’· `\soumuChief`
-* ‘–±‹Çˆõ `\soumuStaff`
+* ç·å‹™å±€ `\soumuDepartment`
+* ç·å‹™å±€é•· `\soumuChief`
+* ç·å‹™å±€å“¡ `\soumuStaff`
 
-* Ž·sˆÏˆõ’· `\president`
-* •›Ž·sˆÏˆõ’· `\subPresident`
+* åŸ·è¡Œå§”å“¡é•· `\president`
+* å‰¯åŸ·è¡Œå§”å“¡é•· `\subPresident`
 
-* ˆê‰ñ¶ `\firstGrade`
-* “ñ‰ñ¶ `\secondGrade`
-* ŽO‰ñ¶ `\thirdGrade`
-* Žl‰ñ¶ `\fourthGrade`
+* ä¸€å›žç”Ÿ `\firstGrade`
+* äºŒå›žç”Ÿ `\secondGrade`
+* ä¸‰å›žç”Ÿ `\thirdGrade`
+* å››å›žç”Ÿ `\fourthGrade`
 
-* •¶ÓFx y z `\writtenBy{x}{y}{z}`
+* æ–‡è²¬ï¼šx y z `\writtenBy{x}{y}{z}`
 
-—˜—p—áF
+åˆ©ç”¨ä¾‹ï¼š
 ```latex
-\writtenBy{\president}{—§–½}{‘¾˜Y}
+\writtenBy{\president}{ç«‹å‘½}{å¤ªéƒŽ}
 ```
 
-ŽÀsŒ‹‰ÊF
-`•¶ÓFŽ·sˆÏˆõ’·@—§–½ ‘¾˜Y`
+å®Ÿè¡Œçµæžœï¼š
+`æ–‡è²¬ï¼šåŸ·è¡Œå§”å“¡é•·ã€€ç«‹å‘½ å¤ªéƒŽ`
 
-### ƒfƒBƒŒƒNƒgƒŠ\¬‚É‚Â‚¢‚Ä
+### ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªæ§‹æˆã«ã¤ã„ã¦
 
 ```
-„¥„Ÿ„Ÿ README.md - ‚±‚Ìƒtƒ@ƒCƒ‹
-„¥„Ÿ„Ÿ document.tex - ‘‰ï•¶Í‚ÌÝ’èƒtƒ@ƒCƒ‹
-„¥„Ÿ„Ÿ src/
-„    „¥„Ÿ„Ÿ zenki.tex - ‘æˆê‰ñ(tŠwŠú—p)‘‰ï•¶‘—pƒƒCƒ“ƒtƒ@ƒCƒ‹
-„    „¥„Ÿ„Ÿ kouki.tex - ‘æ“ñ‰ñ(HŠwŠú—p)‘‰ï•¶‘—pƒƒCƒ“ƒtƒ@ƒCƒ‹
-„    „¥„Ÿ„Ÿ soukatsu/ - ‘Š‡—pƒfƒBƒŒƒNƒgƒŠ
-„    „    „¥„Ÿ„Ÿ zentai.tex - ‘S‘Ì‘Š‡ƒƒCƒ“ƒtƒ@ƒCƒ‹i‘S‘Ì‘Š‡—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}j
-„    „    „¥„Ÿ„Ÿ 1kai.tex - 1‰ñ¶‘Š‡
-„    „    „¥„Ÿ„Ÿ 2kai.tex - 2‰ñ¶‘Š‡
-„    „    „¥„Ÿ„Ÿ 3kai.tex - 3‰ñ¶‘Š‡
-„    „    „¥„Ÿ„Ÿ kaikei.tex - ‰ïŒv‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
-„    „    „¥„Ÿ„Ÿ kensui.tex - Œ¤‹†„i‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
-„    „    „¥„Ÿ„Ÿ syogai.tex - ÂŠO‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
-„    „    „¥„Ÿ„Ÿ soumu.tex  - ‘–±‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
-„    „    „¥„Ÿ„Ÿ system.tex - ƒVƒXƒeƒ€ŠÇ—‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
-„    „    „¥„Ÿ„Ÿ zentai/ - ‘S‘Ì‘Š‡—pƒtƒHƒ‹ƒ_i‹ÇC‰ñ¶•ÊˆÈŠO‚Ìƒtƒ@ƒCƒ‹‚Í‚±‚±‚É”z’uj
-„    „    „¥„Ÿ„Ÿ kaikei/ - ‰ïŒv‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_
-„    „    „¥„Ÿ„Ÿ kensui/ - Œ¤‹†„i‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_
-„    „    „¥„Ÿ„Ÿ syogai/ - ÂŠO‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_
-„    „    „¥„Ÿ„Ÿ soumu/  - ‘–±‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_
-„    „    „¤„Ÿ„Ÿ system/ - ƒVƒXƒeƒ€ŠÇ—‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_
-„    „¥„Ÿ„Ÿ houshin/ - •ûj—pƒfƒBƒŒƒNƒgƒŠ
-„    „    „¥„Ÿ„Ÿ zentai.tex - ‘S‘Ì•ûjƒƒCƒ“ƒtƒ@ƒCƒ‹i‘S‘Ì•ûj—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}j
-„    „    „¥„Ÿ„Ÿ 1kai.tex - 1‰ñ¶•ûj(tŠwŠú‚Ì‚Ý)
-„    „    „¥„Ÿ„Ÿ 2kai.tex - 2‰ñ¶•ûj
-„    „    „¥„Ÿ„Ÿ 3kai.tex - 3‰ñ¶•ûj
-„    „    „¥„Ÿ„Ÿ kaikei.tex - ‰ïŒv‹Ç •ûj—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
-„    „    „¥„Ÿ„Ÿ kensui.tex - Œ¤‹†„i‹Ç •ûj—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
-„    „    „¥„Ÿ„Ÿ syogai.tex - ÂŠO‹Ç •ûj—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
-„    „    „¥„Ÿ„Ÿ soumu.tex  - ‘–±‹Ç •ûj—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
-„    „    „¥„Ÿ„Ÿ system.tex - ƒVƒXƒeƒ€ŠÇ—‹Ç •ûj—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
-„    „    „¥„Ÿ„Ÿ zentai/ - ‘S‘Ì•ûj—pƒtƒHƒ‹ƒ_i‹ÇC‰ñ¶•ÊˆÈŠO‚Ìƒtƒ@ƒCƒ‹‚Í‚±‚±‚É”z’uj
-„    „    „¥„Ÿ„Ÿ kaikei/ - ‰ïŒv‹Ç •ûj—pƒtƒHƒ‹ƒ_
-„    „    „¥„Ÿ„Ÿ kensui/ - Œ¤‹†„i‹Ç •ûj—pƒtƒHƒ‹ƒ_
-„    „    „¥„Ÿ„Ÿ syogai/ - ÂŠO‹Ç •ûj—pƒtƒHƒ‹ƒ_
-„    „    „¥„Ÿ„Ÿ soumu/  - ‘–±‹Ç •ûj—pƒtƒHƒ‹ƒ_
-„    „    „¤„Ÿ„Ÿ system/ - ƒVƒXƒeƒ€ŠÇ—‹Ç •ûj—pƒtƒHƒ‹ƒ_
-„¥„Ÿ„Ÿ .github/ - GitHub Actions‚ÉŽg—p‚³‚ê‚éƒc[ƒ‹ŒQ
-„¥„Ÿ„Ÿ docs/ - ‘‰ï•¶‘ƒŠƒ|ƒWƒgƒŠ‚ðƒZƒbƒgƒAƒbƒv‚·‚élŒü‚¯‚ÌƒhƒLƒ…ƒƒ“ƒg—Þ
-„¥„Ÿ„Ÿ setup/ - ƒZƒbƒgƒAƒbƒvƒvƒƒOƒ‰ƒ€ƒtƒHƒ‹ƒ_
-„¥„Ÿ„Ÿ template/ - Ž©“®¶¬‚ÉŽg‚í‚ê‚éƒeƒ“ƒvƒŒ[ƒgƒtƒ@ƒCƒ‹ŒQ
-„¥„Ÿ„Ÿ tools/ - ƒeƒXƒg‚ÉŽg‚í‚ê‚éƒc[ƒ‹ŒQ
-„¤„Ÿ„Ÿ assignee.yml - setup.py‚ÅŽg—p‚·‚é’S“–ŽÒÝ’èƒtƒ@ƒCƒ‹
+â”œâ”€â”€ README.md - ã“ã®ãƒ•ã‚¡ã‚¤ãƒ«
+â”œâ”€â”€ document.tex - ç·ä¼šæ–‡ç« ã®è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«
+â”œâ”€â”€ src/
+â”‚   â”œâ”€â”€ zenki.tex - ç¬¬ä¸€å›ž(æ˜¥å­¦æœŸç”¨)ç·ä¼šæ–‡æ›¸ç”¨ãƒ¡ã‚¤ãƒ³ãƒ•ã‚¡ã‚¤ãƒ«
+â”‚   â”œâ”€â”€ kouki.tex - ç¬¬äºŒå›ž(ç§‹å­¦æœŸç”¨)ç·ä¼šæ–‡æ›¸ç”¨ãƒ¡ã‚¤ãƒ³ãƒ•ã‚¡ã‚¤ãƒ«
+â”‚   â”œâ”€â”€ soukatsu/ - ç·æ‹¬ç”¨ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª
+â”‚   â”‚   â”œâ”€â”€ zentai.tex - å…¨ä½“ç·æ‹¬ãƒ¡ã‚¤ãƒ³ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆå…¨ä½“ç·æ‹¬ç”¨ãƒ•ã‚©ãƒ«ãƒ€ã®å†…å®¹ã‚’\input{}ï¼‰
+â”‚   â”‚   â”œâ”€â”€ 1kai.tex - 1å›žç”Ÿç·æ‹¬
+â”‚   â”‚   â”œâ”€â”€ 2kai.tex - 2å›žç”Ÿç·æ‹¬
+â”‚   â”‚   â”œâ”€â”€ 3kai.tex - 3å›žç”Ÿç·æ‹¬
+â”‚   â”‚   â”œâ”€â”€ kaikei.tex - ä¼šè¨ˆå±€ ç·æ‹¬ç”¨ãƒ•ã‚©ãƒ«ãƒ€ã®å†…å®¹ã‚’\input{}ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆè‡ªå‹•ç”Ÿæˆï¼‰
+â”‚   â”‚   â”œâ”€â”€ kensui.tex - ç ”ç©¶æŽ¨é€²å±€ ç·æ‹¬ç”¨ãƒ•ã‚©ãƒ«ãƒ€ã®å†…å®¹ã‚’\input{}ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆè‡ªå‹•ç”Ÿæˆï¼‰
+â”‚   â”‚   â”œâ”€â”€ syogai.tex - æ¸‰å¤–å±€ ç·æ‹¬ç”¨ãƒ•ã‚©ãƒ«ãƒ€ã®å†…å®¹ã‚’\input{}ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆè‡ªå‹•ç”Ÿæˆï¼‰
+â”‚   â”‚   â”œâ”€â”€ soumu.tex  - ç·å‹™å±€ ç·æ‹¬ç”¨ãƒ•ã‚©ãƒ«ãƒ€ã®å†…å®¹ã‚’\input{}ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆè‡ªå‹•ç”Ÿæˆï¼‰
+â”‚   â”‚   â”œâ”€â”€ system.tex - ã‚·ã‚¹ãƒ†ãƒ ç®¡ç†å±€ ç·æ‹¬ç”¨ãƒ•ã‚©ãƒ«ãƒ€ã®å†…å®¹ã‚’\input{}ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆè‡ªå‹•ç”Ÿæˆï¼‰
+â”‚   â”‚   â”œâ”€â”€ zentai/ - å…¨ä½“ç·æ‹¬ç”¨ãƒ•ã‚©ãƒ«ãƒ€ï¼ˆå±€ï¼Œå›žç”Ÿåˆ¥ä»¥å¤–ã®ãƒ•ã‚¡ã‚¤ãƒ«ã¯ã“ã“ã«é…ç½®ï¼‰
+â”‚   â”‚   â”œâ”€â”€ kaikei/ - ä¼šè¨ˆå±€ ç·æ‹¬ç”¨ãƒ•ã‚©ãƒ«ãƒ€
+â”‚   â”‚   â”œâ”€â”€ kensui/ - ç ”ç©¶æŽ¨é€²å±€ ç·æ‹¬ç”¨ãƒ•ã‚©ãƒ«ãƒ€
+â”‚   â”‚   â”œâ”€â”€ syogai/ - æ¸‰å¤–å±€ ç·æ‹¬ç”¨ãƒ•ã‚©ãƒ«ãƒ€
+â”‚   â”‚   â”œâ”€â”€ soumu/  - ç·å‹™å±€ ç·æ‹¬ç”¨ãƒ•ã‚©ãƒ«ãƒ€
+â”‚   â”‚   â””â”€â”€ system/ - ã‚·ã‚¹ãƒ†ãƒ ç®¡ç†å±€ ç·æ‹¬ç”¨ãƒ•ã‚©ãƒ«ãƒ€
+â”‚   â”œâ”€â”€ houshin/ - æ–¹é‡ç”¨ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª
+â”‚   â”‚   â”œâ”€â”€ zentai.tex - å…¨ä½“æ–¹é‡ãƒ¡ã‚¤ãƒ³ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆå…¨ä½“æ–¹é‡ç”¨ãƒ•ã‚©ãƒ«ãƒ€ã®å†…å®¹ã‚’\input{}ï¼‰
+â”‚   â”‚   â”œâ”€â”€ 1kai.tex - 1å›žç”Ÿæ–¹é‡(æ˜¥å­¦æœŸã®ã¿)
+â”‚   â”‚   â”œâ”€â”€ 2kai.tex - 2å›žç”Ÿæ–¹é‡
+â”‚   â”‚   â”œâ”€â”€ 3kai.tex - 3å›žç”Ÿæ–¹é‡
+â”‚   â”‚   â”œâ”€â”€ kaikei.tex - ä¼šè¨ˆå±€ æ–¹é‡ç”¨ãƒ•ã‚©ãƒ«ãƒ€ã®å†…å®¹ã‚’\input{}ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆè‡ªå‹•ç”Ÿæˆï¼‰
+â”‚   â”‚   â”œâ”€â”€ kensui.tex - ç ”ç©¶æŽ¨é€²å±€ æ–¹é‡ç”¨ãƒ•ã‚©ãƒ«ãƒ€ã®å†…å®¹ã‚’\input{}ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆè‡ªå‹•ç”Ÿæˆï¼‰
+â”‚   â”‚   â”œâ”€â”€ syogai.tex - æ¸‰å¤–å±€ æ–¹é‡ç”¨ãƒ•ã‚©ãƒ«ãƒ€ã®å†…å®¹ã‚’\input{}ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆè‡ªå‹•ç”Ÿæˆï¼‰
+â”‚   â”‚   â”œâ”€â”€ soumu.tex  - ç·å‹™å±€ æ–¹é‡ç”¨ãƒ•ã‚©ãƒ«ãƒ€ã®å†…å®¹ã‚’\input{}ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆè‡ªå‹•ç”Ÿæˆï¼‰
+â”‚   â”‚   â”œâ”€â”€ system.tex - ã‚·ã‚¹ãƒ†ãƒ ç®¡ç†å±€ æ–¹é‡ç”¨ãƒ•ã‚©ãƒ«ãƒ€ã®å†…å®¹ã‚’\input{}ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆè‡ªå‹•ç”Ÿæˆï¼‰
+â”‚   â”‚   â”œâ”€â”€ zentai/ - å…¨ä½“æ–¹é‡ç”¨ãƒ•ã‚©ãƒ«ãƒ€ï¼ˆå±€ï¼Œå›žç”Ÿåˆ¥ä»¥å¤–ã®ãƒ•ã‚¡ã‚¤ãƒ«ã¯ã“ã“ã«é…ç½®ï¼‰
+â”‚   â”‚   â”œâ”€â”€ kaikei/ - ä¼šè¨ˆå±€ æ–¹é‡ç”¨ãƒ•ã‚©ãƒ«ãƒ€
+â”‚   â”‚   â”œâ”€â”€ kensui/ - ç ”ç©¶æŽ¨é€²å±€ æ–¹é‡ç”¨ãƒ•ã‚©ãƒ«ãƒ€
+â”‚   â”‚   â”œâ”€â”€ syogai/ - æ¸‰å¤–å±€ æ–¹é‡ç”¨ãƒ•ã‚©ãƒ«ãƒ€
+â”‚   â”‚   â”œâ”€â”€ soumu/  - ç·å‹™å±€ æ–¹é‡ç”¨ãƒ•ã‚©ãƒ«ãƒ€
+â”‚   â”‚   â””â”€â”€ system/ - ã‚·ã‚¹ãƒ†ãƒ ç®¡ç†å±€ æ–¹é‡ç”¨ãƒ•ã‚©ãƒ«ãƒ€
+â”œâ”€â”€ .github/ - GitHub Actionsã«ä½¿ç”¨ã•ã‚Œã‚‹ãƒ„ãƒ¼ãƒ«ç¾¤
+â”œâ”€â”€ docs/ - ç·ä¼šæ–‡æ›¸ãƒªãƒã‚¸ãƒˆãƒªã‚’ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—ã™ã‚‹äººå‘ã‘ã®ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆé¡ž
+â”œâ”€â”€ setup/ - ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—ãƒ—ãƒ­ã‚°ãƒ©ãƒ ãƒ•ã‚©ãƒ«ãƒ€
+â”œâ”€â”€ template/ - è‡ªå‹•ç”Ÿæˆã«ä½¿ã‚ã‚Œã‚‹ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ç¾¤
+â”œâ”€â”€ tools/ - ãƒ†ã‚¹ãƒˆã«ä½¿ã‚ã‚Œã‚‹ãƒ„ãƒ¼ãƒ«ç¾¤
+â””â”€â”€ assignee.yml - setup.pyã§ä½¿ç”¨ã™ã‚‹æ‹…å½“è€…è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«
 ```
 
-‘‰ï•¶‘‚ÌƒZƒbƒgƒAƒbƒv
+ç·ä¼šæ–‡æ›¸ã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—
 ---------------------
-ƒŠƒ|ƒWƒgƒŠ‚âƒtƒ@ƒCƒ‹‚ÌƒZƒbƒgƒAƒbƒv•û–@‚ÍC[README\_setup.md](docs/README_setup.md)‚ð‚²——‚­‚¾‚³‚¢D
-Ž©“®ƒrƒ‹ƒh‚ÌƒZƒbƒgƒAƒbƒv•û–@‚ÍC[README\_CI.md](docs/README_CI.md)‚ð‚²——‚­‚¾‚³‚¢D
+ãƒªãƒã‚¸ãƒˆãƒªã‚„ãƒ•ã‚¡ã‚¤ãƒ«ã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—æ–¹æ³•ã¯ï¼Œ[README\_setup.md](docs/README_setup.md)ã‚’ã”è¦§ãã ã•ã„ï¼Ž
+è‡ªå‹•ãƒ“ãƒ«ãƒ‰ã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—æ–¹æ³•ã¯ï¼Œ[README\_CI.md](docs/README_CI.md)ã‚’ã”è¦§ãã ã•ã„ï¼Ž
