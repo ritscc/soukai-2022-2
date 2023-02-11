@@ -1,167 +1,265 @@
-ç·ä¼šè­°æ¡ˆæ›¸ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ
+2022”N“x‘æ“ñ‰ñ‘‰ï‹cˆÄ‘
 ========================
-ã“ã‚Œã¯ï¼Œç·ä¼šè­°æ¡ˆæ›¸ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã§ã™ï¼Ž
-ã‚³ãƒžãƒ³ãƒ‰ã‚’ä½¿ã£ã¦ç°¡å˜ã«ç·ä¼šè­°æ¡ˆæ›¸ãƒªãƒã‚¸ãƒˆãƒªã‚’ç”Ÿæˆã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ï¼Ž
+‚±‚ê‚ÍC2022”N“x‘æ“ñ‰ñ‘‰ï‹cˆÄ‘ƒŠƒ|ƒWƒgƒŠ‚Å‚·D
 
-ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—æ‰‹é †
---------------------
-ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—ã§ã™ã¹ãã“ã¨ã¯ï¼Œæ¬¡ã®7ã¤ã§ã™ï¼Ž
-
-1. [ãƒªãƒã‚¸ãƒˆãƒªã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—](#ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—æ‰‹é †)
-2. [CIã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—](#ciã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—)
-3. [ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã¨GitHubã®èª²é¡Œã®ç”Ÿæˆ](#ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã¨issueã®ç™ºè¡Œ)
-4. [ä¼šå“¡ã«å¯¾ã™ã‚‹ã‚¢ã‚¯ã‚»ã‚¹è¨±å¯](#ä¼šå“¡ã«å¯¾ã™ã‚‹ã‚¢ã‚¯ã‚»ã‚¹è¨±å¯)
-5. [ãƒ–ãƒ©ãƒ³ãƒä¿è­·ãƒ«ãƒ¼ãƒ«ã®ä½œæˆ](#ãƒ–ãƒ©ãƒ³ãƒä¿è­·ãƒ«ãƒ¼ãƒ«ã®ä½œæˆ)
-6. [SlackAppã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—](#slackappã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—)
-7. [PRãƒ†ã‚¹ãƒˆ](#prãƒ†ã‚¹ãƒˆ)
-
-ãƒªãƒã‚¸ãƒˆãƒªã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—
----------------------
-ç·ä¼šãƒªãƒã‚¸ãƒˆãƒª`soukai-{å¹´åº¦}-{å›žæ•°}`ã‚’ç”Ÿæˆã—ã¾ã™ï¼Ž
-1. `$ git clone git@github.com:ritscc/soukai-template.git`
-ã§ã“ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã‚’cloneã—ã¦ãã ã•ã„ï¼Žï¼ˆã“ã“ã§ãƒ•ã‚©ãƒ¼ã‚¯ã§ã¯ãªã„ã“ã¨ã«æ³¨æ„ã—ã¦ãã ã•ã„ï¼Žï¼‰
-2. è‡ªèº«ã®ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã§ `soukai-template` ãƒ•ã‚©ãƒ«ãƒ€ãŒã‚ã‚‹ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ç§»å‹•ã—ã¦ãã ã•ã„ï¼Ž
-3. `$ cp -r soukai-template soukai-{å¹´åº¦}-{å›žæ•°}` ã‚’å®Ÿè¡Œã—ã¦ãã ã•ã„ï¼Ž (e.g.) `cp -r soukai-template soukai-2019-2`
-4. ã‚³ãƒ”ãƒ¼ã—ãŸå…ˆã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ç§»å‹•ã—ã¦ãã ã•ã„ï¼Ž
-5. `$ git remote -v` ã‚’å®Ÿè¡Œã—ã¦ `origin` ãŒè¡¨ç¤ºã•ã‚Œã¦ã„ã‚‹ã“ã¨ã‚’ç¢ºèªã—ã¦ãã ã•ã„ï¼Ž
-6. `$ git remote rm origin` ã‚’å®Ÿè¡Œã—ã¦ãã ã•ã„ï¼Ž
-7. `$ git remote -v` ã‚’å®Ÿè¡Œã—ã¦ä½•ã‚‚è¡¨ç¤ºã•ã‚Œãªã„ã“ã¨ã‚’ç¢ºèªã—ã¦ãã ã•ã„ï¼Ž
-8. [GitHub](https://github.com/ritscc) ã«ã‚¢ã‚¯ã‚»ã‚¹ã—ã¦æ–°ã—ã„ãƒªãƒã‚¸ãƒˆãƒªã‚’ä½œæˆã—ã¦ãã ã•ã„ï¼Ž
-åå‰ã¯ `soukai-{å¹´åº¦}-{å›žæ•°}` ã¨ã—ã¾ã—ã‚‡ã†ï¼Ž
-9. `$ git remote add origin git@github.com:ritscc/soukai-{å¹´åº¦}-{å›žæ•°}.git` ã‚’å®Ÿè¡Œã—ã¾ã™ï¼Ž
-(e.g.) `git remote add origin git@github.com:ritscc/soukai-2019-1.git`
-10. `$ git remote -v` ã‚’å®Ÿè¡Œã—ã¦ `origin` ãŒè¡¨ç¤ºã•ã‚Œã¦ã„ã‚‹ã“ã¨ã‚’ç¢ºèªã—ã¦ãã ã•ã„ï¼Ž
-11. `$ git push -u origin master` ã‚’å®Ÿè¡Œã—ã¦ãã ã•ã„ï¼Ž
-12. GitHubä¸Šã§ãƒªãƒã‚¸ãƒˆãƒªãŒæ›´æ–°ã•ã‚ŒãŸã“ã¨ã‚’ç¢ºèªã—ã¾ã™ï¼Ž
-13. `$ mv .github.sample .github` ã‚’å®Ÿè¡Œã—ã¾ã™ï¼Ž
-14. `$ git add -A` `$ git commit -m 'setup github actions'` `$ git push` ã‚’é †ã«å®Ÿè¡Œã—ã¾ã™ï¼Ž
-
-CIã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—
+ƒrƒ‹ƒhƒXƒe[ƒ^ƒX
 -----------------------
-CIã¨ã¯ï¼Œç¶™ç¶šçš„ã‚¤ãƒ³ãƒ†ã‚°ãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³(Continuous Integration)ã®ã“ã¨ã§ã™ï¼Ž
-è¨­å®šã‚’è¡Œã†ã¨ï¼Œèª¤å­—ã‚„è¡¨è¨˜ã‚†ã‚Œã‚’ï¼Œã‚³ãƒŸãƒƒãƒˆã®ã‚¿ã‚¤ãƒŸãƒ³ã‚°ãªã©ã§ï¼ŒGitHubã®Pull requestsã«ï¼Œè‡ªå‹•çš„ã«æŒ‡æ‘˜ã—ã¦ãã‚Œã‚‹ã‚ˆã†ã«ãªã‚Šã¾ã™ï¼Ž
+RCC‚Ì‘‰ï•¶Í‚ÍGitHub Actions‚ð—p‚¢‚ÄC‘‰ï•¶‘‚Ìƒrƒ‹ƒh‚ðŽ©“®‰»‚µ‚Ä‚¢‚Ü‚·D
 
-äººæ‰‹ã§ã‚„ã‚‹ã“ã¨ã‚’æ¸›ã‚‰ã›ã‚‹ã®ã§ï¼Œè¨­å®šã™ã‚‹ã“ã¨ã‚’æŽ¨å¥¨ã—ã¾ã™ï¼Ž
-CIã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—æ–¹æ³•ã«ã¤ã„ã¦ã¯ï¼Œ[README\_CI.md](docs/README_CI.md)ã«è©³ã—ãç´¹ä»‹ã—ã¦ã„ã¾ã™ï¼Ž
+PDF‚ð¶¬‚·‚é‚É‚ÍCƒx[ƒXƒuƒ‰ƒ“ƒ`‚ð`master`‚©`main`‚ÉÝ’è‚µ‚ÄCPull Request‚ðì¬‚µ‚Ä‚­‚¾‚³‚¢D
+¶¬‚³‚ê‚½PDF‚ÍC[ƒŠƒ|ƒWƒgƒŠ‚ÌƒŠƒŠ[ƒXƒy[ƒW](https://github.com/ritscc/soukai-2022-2/releases)‚ÉƒAƒbƒvƒ[ƒh‚³‚ê‚Ü‚·D
 
-ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã¨issueã®ç™ºè¡Œ
----------------------
-LaTeXã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã¨issueã®ç™ºè¡Œã‚’è¡Œã„ã¾ã™ï¼Ž
-ã“ã‚Œã‚‰ã®ä½œæ¥­ã¯ï¼Œæ‹…å½“è€…ãŒç·¨é›†ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã®é–“é•ã„ã‚’å°‘ãªãã—ï¼Œ
-ã™ã¹ã¦ã®æ‹…å½“éƒ¨åˆ†ã‚’issueã¨ã—ã¦ç®¡ç†ã§ãã‚‹ã‚ˆã†ã«ã™ã‚‹ãŸã‚ã«å¿…è¦ã§ã™ï¼Ž
-ã“ã‚Œã‚‰ã®ä½œæ¥­ã¯[setup.py](setup/setup.py)ã‚’ç”¨ã„ã‚‹ã“ã¨ã§ï¼Œç°¡å˜ã«è¨­å®šã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ï¼Ž
 
-### setup.pyã«ã¤ã„ã¦
-å¹´åº¦ãªã©ã®åˆæœŸè¨­å®šã‚’ã—ãŸã‚Šï¼Œãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç”Ÿæˆã™ã‚‹ãƒ„ãƒ¼ãƒ«ã§ã™ï¼Ž
-soukai-templateã‹ã‚‰ã‚³ãƒ”ãƒ¼ã—ãŸç›´å¾Œã‚„ï¼Œå„å±€ã®ãƒ–ãƒ©ãƒ³ãƒã‚’ä½œã‚‹ã¨ãã«ä½¿ã£ã¦ãã ã•ã„ï¼Ž
+•¶Í•\Œ»‚É‚Â‚¢‚Ä
+-----------------------
+•¶Í•\Œ»‚É‚Â‚¢‚Ä“ˆê•\‹L‚ð‚±‚±‚ÉŽ¦‚µ‚Ü‚·D
+‚È‚¨C•¶Í•\Œ»’ù³ˆê——•\‚ÍC[•¶Í\¬ƒc[ƒ‹yunagiz‚Ìƒ‹[ƒ‹CSVƒtƒ@ƒCƒ‹](https://github.com/ritscc/unagi/blob/master/rules.csv)‚ðŠm”F‚µ‚Ä‚­‚¾‚³‚¢D
 
-Pythonã®å‹•ä½œç’°å¢ƒã¯ä»¥ä¸‹ã®é€šã‚Šã§ã™ï¼Ž
-- Python ver3.7
-- å¿…é ˆãƒ©ã‚¤ãƒ–ãƒ©ãƒª
-    - jinja2
-    - pyyaml
+* Œû’²F**‚Å‚ ‚é’²**(‚¾’²‚Íƒ_ƒ)
 
-å¿…é ˆãƒ©ã‚¤ãƒ–ãƒ©ãƒªã¯
+* ”ŽšFŒÅ—L–¼ŽŒ(—áF2022”N“x‘æ“ñ‰ñ‘‰ï)CŠµ—p‹å(ŽO“úŒŽ)Cˆê‚ÂE“ñ‚Â‚È‚Ç‚Ì”‚¦ã‚°Cˆê‰ñ¶E“ñ‰ñ¶ ˆÈŠO‚Í**”¼ŠpƒAƒ‰ƒrƒA”Žš**
+* ¼—ï“™F**”¼ŠpƒAƒ‰ƒrƒA”Žš**
+* “ú•tF**››››”N›ŒŽ›“ú**(—á1F2013”N10ŒŽ1“úC—á2F10ŒŽ1“úC2“úC3“ú)
+* ŠúŠÔF**›‚©ŒŽ(‚© ‚Í‚Ð‚ç‚ª‚È)**
+
+* ‹å“Ç“_F**CD(‚»‚ê‚¼‚ê‘SŠp)**
+* ƒJƒ“ƒ}EƒsƒŠƒIƒh‚à‘SŠp‚Å‚¨Šè‚¢‚µ‚Ü‚·(–{—ˆ”¼Šp‚Å‚È‚¯‚ê‚Î‚È‚ç‚¢‚à‚Ì‚ðœ‚­(—áFƒtƒ@ƒCƒ‹–¼CURL))
+* Š‡ŒÊF**( )(‚»‚ê‚¼‚ê”¼Šp)**
+* ƒJƒMƒJƒbƒRF**uv(wx‚â""‚Íuv‚Ö)**
+* ‰p”ŽšF**Œ´‘¥”¼Šp**
+
+* RCCE“–‰ïE–{‰ïF**–{‰ï**
+* –{‹ÇE“–‹ÇF**–{‹Ç**
+* ‰ïˆõE•”ˆõF**‰ïˆõ**
+* ’è—á‰ï‹cE—á‰ïF**’è—á‰ï‹c**
+* ƒT[ƒNƒ‹ƒ‹[ƒ€E•”ŽºF**ƒT[ƒNƒ‹ƒ‹[ƒ€**
+* ƒvƒƒWƒFƒNƒg”­•\‰ïE¬‰Ê”­•\‰ïF**ƒvƒƒWƒFƒNƒg”­•\‰ï**
+* 2021”N“xEð”N“xE‘O”N“xF**2021”N“x**
+* 2022”N“xE¡”N“xF**2022”N“x**
+* 2023”N“xE—ˆ”N“xEŽŸ”N“xF**2023”N“x**
+* ‘OŠúEtŠwŠúF**tŠwŠú**
+* ŒãŠúEHŠwŠúF**HŠwŠú**
+
+* ‚¨‚±‚È‚¤F**s‚¤**(‚È”²‚«)
+* ‚Ð‚«‚Ã‚«F**ˆø‚«Œp‚¬**iˆøŒp‚¬‚âˆøŒp‚Å‚Í‚È‚¢j
+
+ŠÔˆá‚¦‚â‚·‚¢—pŒê
+
+* **ƒGƒ|ƒbƒN—§–½21**FƒGƒ|ƒbƒN‚âƒGƒ|ƒbƒN21‚ÍŠÔˆá‚¢‚Å‚·
+* **‰ÄŠú/“~Šú‹x‰É** F ‹Gß‚Ì‹G‚Å‚Í‚È‚­CŠúŠÔ‚ÌŠú‚Å‚·
+
+ŠeŽíƒT[ƒrƒX–¼Ì
+
+* **RCC Wiki**F‰ï“àWikiƒVƒXƒeƒ€‚ðŽw‚·ê‡‚ÍCRCC Wiki‚Å“ˆê‚µ‚Ä‚­‚¾‚³‚¢D
+* **GoogleŒnƒT[ƒrƒX**F‘S‚ÄƒT[ƒrƒX–¼‚ÍƒJƒ^ƒJƒi‚Å‹Lq‚µ‚Ä‚­‚¾‚³‚¢Di—áFGoogleƒhƒ‰ƒCƒuEGoogleƒhƒLƒ…ƒƒ“ƒgEGoogleƒtƒH[ƒ€j
+
+È—ªŒn—pŒêiÈ—ª‹L–@‚ÍCÅI”Å”­s‘O‚ÉŽ·sˆÏˆõ’·EƒVƒXƒeƒ€ŠÇ—‹Ç‚ªC³‚ðs‚¢‚Ü‚·j
+
+* **KC3**FŠÖ¼î•ñŒnŠw¶’c‘ÌŒð—¬‰ï‚ÍuKC3v‚Å‹Lq‚µ‚Ä‚­‚¾‚³‚¢D
+* **LT**Fƒ‰ƒCƒgƒjƒ“ƒOƒg[ƒN‚ÍuLTv‚Å‹Lq‚µ‚Ä‚­‚¾‚³‚¢D
+
+
+Git‚Å‚Ìì‹Æ‚É‚Â‚¢‚Ä
+-----------------------
+‘‰ï•¶‘‚ÍCGit‚ÅŠÇ—‚³‚ê‚Ä‚¢‚Ü‚·D
+‚±‚±‚Å‚ÍCGit‚ðŽg‚Á‚½Ž·•Mì‹Æ‚ðà–¾‚µ‚Ü‚·D
+
+ƒRƒ}ƒ“ƒh‚ª‚í‚©‚él‚ÍC‚±‚Ì’Ê‚è‚Éì‹Æ‚·‚é‚Æ‚¢‚¢Š´‚¶‚É‚È‚é‚Å‚µ‚å‚¤D
+SourceTree(GUIƒc[ƒ‹)‚ð—˜—p‚·‚é•û‚ÍC‚»‚ê‚Á‚Û‚¢à–¾‚ðŠæ’£‚Á‚Ä‰ð“Ç‚µ‚Ä‚­‚¾‚³‚¢D
+
+### ì‹Æ‚ðŽn‚ß‚é‘O‚É
+ì‹Æ‚ðŽn‚ß‚é‘O‚ÉC‚±‚ÌƒŠƒ|ƒWƒgƒŠ‚ðƒNƒ[ƒ“(clone)‚·‚é•K—v‚ª‚ ‚è‚Ü‚·D
+Œ¾‚¢Š·‚¦‚ê‚ÎC‘‰ï‹cˆÄ‘‚Æ‚»‚ê‚ðŠÇ—‚·‚éGit‚Ìƒf[ƒ^‚ðŽæ“¾‚·‚é‚Æ‚¢‚¤‚±‚Æ‚Å‚·D
+
+* SSH‚Å‚ÌƒNƒ[ƒ“: `$ git clone git@github.com:ritscc/soukai-2022-2.git`
+* HTTPS‚Å‚ÌƒNƒ[ƒ“: `$ git clone https://github.com/ritscc/soukai-2022-2.git`
+
+SSH‚ÌÝ’è‚µ‚Ä‚¢‚È‚¢•û‚ÍHTTPS‚©‚çƒNƒ[ƒ“‚µ‚Ä‚­‚¾‚³‚¢D
+SSH‚ÅƒNƒ[ƒ“‚µ‚Ä‚¨‚­‚ÆCƒRƒ~ƒbƒgì‹Æ‚ªŠy‚Å‚·D
+Œã‚©‚ç‚Å‚à`$ git remote`‚ðŽg‚Á‚ÄC•ÏX‚Å‚«‚Ü‚·‚Ì‚ÅCÝ’è‚µ‚Ä‚¨‚­‚Æ‚æ‚¢‚Å‚µ‚å‚¤D
+
+### ƒuƒ‰ƒ“ƒ`‚É‚Â‚¢‚Ä
+Šî–{“I‚ÉCŽŸ‚Ì2–{‚Ìƒuƒ‰ƒ“ƒ`‚ª‘¶Ý‚µ‚Ä‚¢‚Ü‚·D
+
+- master/main : ƒo[ƒWƒ‡ƒ“‚ª‚Å‚«ŽŸ‘æC‚±‚±‚Éƒ}[ƒW(“‡)‚³‚ê‚Ü‚·D‚±‚±‚Í•’iXV‚³‚ê‚Ü‚¹‚ñD
+- develop : ŠJ”­—pƒuƒ‰ƒ“ƒ`‚Å‚·D‚±‚±‚Éì‹Æ—pƒuƒ‰ƒ“ƒ`‚ðƒ}[ƒW‚µ‚Ä‚¢‚­‚±‚Æ‚ÅŽ·•M‚ði‚ß‚Ü‚·D
+
+### ì‹Æ‚Ì—¬‚êiƒ[ƒNƒtƒ[j
+1. Ž©•ª‚ªs‚¤ì‹Æ‚ðuIssue/ƒCƒVƒ…[i‰Û‘èjv‚Æ‚µ‚Äì¬‚µ‚Ü‚·DŠù‚ÉƒCƒVƒ…[‚ª“o˜^‚³‚ê‚Ä‚¢‚ê‚ÎC‚±‚Ìì‹Æ‚Í•s—v‚Å‚·D
+   GitHub‚ÌuIssuesvƒy[ƒW<https://github.com/ritscc/soukai-2022-2/issues>‚ÌuNew Isuuevƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚ÄCƒCƒVƒ…[‚ðì¬‚µ‚Ü‚·D
+   ƒ^ƒCƒgƒ‹‚âà–¾‚ÍC‘¼‚Ìl‚ª“Ç‚ñ‚Å‚à‚í‚©‚é‚æ‚¤‚É‘‚¢‚Ä‚­‚¾‚³‚¢D
+   ’S“–ŽÒ‚Í’S“–‚·‚él‚ÉŠ„‚è“–‚Ä‚µ‚Ä‚­‚¾‚³‚¢D
+
+2. ì‹Æ‘O‚ÉC`$ git pull`‚µ‚Ä‚¨‚«‚Ü‚·D‚±‚¤‚·‚é‚±‚Æ‚ÅCì‹Æ‚ÌÕ“Ë(ƒRƒ“ƒtƒŠƒNƒg)‚ð­‚È‚­‚³‚¹‚ç‚ê‚Ü‚·D
+
+3. ’S“–ŽÒ‚ÍCdevelopƒuƒ‰ƒ“ƒ`‚ð‹N“_‚ÉCì‹Æ—pƒuƒ‰ƒ“ƒ`(branch)‚ðì¬‚µ‚Ü‚·D
+   `$ git checkout -b <branchname> develop`
+   ƒuƒ‰ƒ“ƒ`–¼‚Íd•¡‚µ‚È‚¢‚æ‚¤‚É”CˆÓ‚Å\‚¢‚Ü‚¹‚ñD
+   ƒuƒ‰ƒ“ƒ`–¼‚ÉƒCƒVƒ…[”Ô†‚ðŠÜ‚ß‚Ä‚¨‚­‚Æƒuƒ‰ƒ“ƒ`‚ð’T‚µ‚â‚·‚­‚È‚èCd•¡‚à‚µ‚È‚¢‚Ì‚ÅƒIƒXƒXƒ‚Å‚·D
+   ƒCƒVƒ…[”Ô†‚ÍC‰Û‘è–¼‚Ì¶‰º‚É`#<”Žš>`‚ÌŒ`Ž®‚Å‘‚©‚ê‚Ä‚¢‚Ü‚·D
+
+4. •ÒW‚µ‚Ü‚·D
+   •ÒW•û–@‚ÍC‰º‚Ìu•¶‘‚ÌŽ·•Mì‹Æ‚É‚Â‚¢‚Äv‚ÌÍ‚ð‚¨“Ç‚Ý‚­‚¾‚³‚¢D
+
+5. ƒLƒŠ‚Ì—Ç‚¢Š‚ÅCƒtƒ@ƒCƒ‹‚ð’Ç‰Á(add)‚µ‚ÄƒRƒ~ƒbƒg(commit)‚µ‚Ü‚·D
+   `$ git add <filename>..`
+   `$ git commit`
+   ƒRƒ~ƒbƒgŽž‚ÍCì‹Æ“à—e‚ª‚í‚©‚é‚æ‚¤‚É‘‚¢‚Ä‚­‚¾‚³‚¢D
+   ‚Ü‚½CƒRƒ~ƒbƒg‚Ì‚Ç‚ê‚©‚É`Reopen #<ƒCƒVƒ…[”Ô†>`‚ðŠÜ‚ß‚é‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢D
+
+6. Š®¬‚µ‚½‚çƒŠƒ|ƒWƒgƒŠ‚ÉƒvƒbƒVƒ…(push)‚µ‚Ü‚·D
+   `$ git push origin <branchname>`
+   __(’)__ ‚È‚¨Cæ‚Ù‚Ç‹“‚°‚½master‚Ædevelop‚É‚ÍƒvƒbƒVƒ…‚Å‚«‚Ü‚¹‚ñDŒ ŒÀ‚ÌŠÇ—‚ðs‚Á‚Ä‚¢‚Ü‚·D
+
+7. <https://github.com/ritscc/soukai-2022-2/pulls>‚©‚çƒvƒ‹ƒŠƒNƒGƒXƒg(Pull request)‚ðì¬‚µ‚Ü‚·D
+   ‰æ–Ê‰Eã‚Ì•û‚ÌuNew pull requestv‚Ìƒ{ƒ^ƒ“‚©‚çì¬‚µ‚Ä‚­‚¾‚³‚¢D
+   __(’)__ ƒ^ƒCƒgƒ‹‚ÍC‰Û‘è”Ô†‚ð`Fix #<ƒCƒVƒ…[”Ô†> : <ì‹Æ“à—e>`‚Æ‚¢‚¤Œ`Ž®‚Å‹Lq‚µ‚Ä‚­‚¾‚³‚¢D
+   ¶ibase)‚É‚Í`develop`‚Ìƒuƒ‰ƒ“ƒ`‚ðC‰E(compare)‚É‚ÍCæ‚Ù‚ÇŽ©•ª‚ªƒvƒbƒVƒ…(push)‚µ‚½ƒuƒ‰ƒ“ƒ`‚ðƒZƒbƒg‚µ‚Ü‚·D
+   `Reviewers`‚ÉC‹Çˆõ‚â‹¤“¯’S“–ŽÒ‚ðÝ’è‚µ‚Ä‚¨‚­‚ÆCƒvƒ‹ƒŠƒNƒGƒXƒg‚ðì¬‚µ‚½Ž|‚ª’Ê’m‚³‚ê‚Ü‚·‚Ì‚ÅCŠˆ—p‚µ‚Ü‚µ‚å‚¤D
+   ¦ ‚È‚¨Cƒvƒ‹ƒŠƒNƒGƒXƒg‚ÍCŽ©•ª‚Ìƒuƒ‰ƒ“ƒ`‚ðƒx[ƒXƒuƒ‰ƒ“ƒ`‚Éƒ}[ƒW‚µ‚½‚¢‚Æ‚¢‚¤\¿‚Ì‚±‚Æ‚Å‚·D
+
+8. ‚ ‚Æ‚ÍƒŒƒrƒ…[‚³‚ê‚Ä‚­‚¾‚³‚¢D‚Ý‚ñ‚È‚ÍƒŒƒrƒ…[‚µ‚Ä‚­‚¾‚³‚¢D
+   –â‘è“_‚ª‚ ‚ê‚ÎCƒvƒ‹ƒŠƒNƒGƒXƒg‚ÌƒRƒƒ“ƒg‚ðŽg‚Á‚ÄC–â‘è“_‚ðŽw“E‚µ‚Ä‚­‚¾‚³‚¢D
+   ‚±‚±‚Å–â‘è‚È‚¢‚Æ”»’f‚µ‚½‚ç__13__‚É”ò‚ñ‚Å‚­‚¾‚³‚¢D
+
+9. Žw“E‚È‚Ç‚ª‚ ‚èC•ÏX‚Ì•K—v‚ª‚ ‚éê‡‚ÍCæ‚Ù‚Ç‚Ìƒuƒ‰ƒ“ƒ`‚ÅC•ÒW‚µ‚È‚¨‚µ‚Ü‚·D
+
+10. •ÒW‚Å‚«‚½‚çC__addCcommitCpush!!!!!!__
+
+11. Ž©•ª‚ªì¬‚µ‚½ƒvƒ‹ƒŠƒNƒGƒXƒg‚Ìƒy[ƒW‚©‚çCC³‚µ‚½“_‚ðƒRƒƒ“ƒg‚É‚µ‚ÄŽc‚µ‚Ä‚¨‚«‚Ü‚µ‚å‚¤D
+
+12. 8`11‚ðŒJ‚è•Ô‚µ‚Ä‚Ç‚ñ‚Ç‚ñ—Ç‚­‚µ‚Ä‚¢‚«‚Ü‚·D
+
+13. ƒŒƒrƒ…[‚µ‚Ä–â‘è–³‚¢‚Æ”»’f‚µ‚½l‚ÍCƒvƒ‹ƒŠƒNƒGƒXƒgƒy[ƒW“à‚Ì`Files changed`‚ðŠJ‚«C
+    `Review Changes`‚©‚çC`Approve`‚ð‘I‘ð‚µC`Submit review`‚ð‘—M‚µ‚Ü‚µ‚å‚¤D
+
+14. ‚¢‚¢Š´‚¶‚¾‚Á‚½‚çCŽ·sˆÏˆõ’·‚©ƒVƒXƒeƒ€ŠÇ—‹Ç’·‚Ì”»’f‚Ådevelopƒuƒ‰ƒ“ƒ`‚Éƒ}[ƒW(marge)‚³‚ê‚Ü‚·D
+
+‚È‚¨ƒ}[ƒW‚³‚ê‚½Œã‚ÉCdevelopƒuƒ‰ƒ“ƒ`‚ðƒvƒ‹(`$ git pull`)‚·‚é‚ÆCXV‚³‚ê‚Ä‚¢‚é‚Ì‚ªŠm”F‚Å‚«‚Ü‚·D
+
 ```shell
-$ pip install jinja2
-$ pip install pyyaml
+$ git pull
+$ git log
 ```
-ã§ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ã¦ãã ã•ã„ï¼Ž
-è©³ã—ãã¯ï¼Œ[README\_setup.md](docs/README_setup.md)ã‚’è¦‹ã¦ãã ã•ã„ï¼Ž
+‚í‚©‚ç‚È‚¯‚ê‚ÎSlack‚Ì[#soukai](https://ritscc.slack.com/messages/soukai/)‚Å‘Š’k‚µ‚Ä‚­‚¾‚³‚¢D‘Sˆõ‚Å‹¤—L‚µ‚Ü‚µ‚å‚¤D
 
-### ä½œæ¥­æ‰‹é †
-ã‚«ãƒ¬ãƒ³ãƒˆãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªãŒç·ä¼šãƒªãƒã‚¸ãƒˆãƒªã«ãªã£ã¦ã„ã‚‹ã“ã¨ã‚’ç¢ºèªã—ãŸä¸Šã§ï¼Œä»¥ä¸‹ã®æ‰‹é †ã‚’è¸ã‚“ã§ãã ã•ã„ï¼Ž
-1. ä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—ã¦ï¼Œå¹´åº¦ãªã©ã®æƒ…å ±ã‚’è¨­å®šã™ã‚‹ï¼Ž
-    ```shell
-    $ cd setup
-    $ python setup.py init
-    ```
-1. ç”Ÿæˆã•ã‚ŒãŸassignee.ymlã‚’æ›¸ãæ›ãˆã‚‹ï¼Ž
-1. ä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—ã¦ï¼Œäºˆã‚subsectionä»¥é™ã®æ–‡æ›¸ã‚’æ›¸ããŸã‚ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç”Ÿæˆã™ã‚‹ï¼Ž
-    ```shell
-    $ python setup.py g
-    ```
-1. ä»¥ä¸‹ã®ã‚³ãƒžãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—ã¦ï¼ŒGitHubã®ãƒªãƒã‚¸ãƒˆãƒªã«issueã‚’ç™ºè¡Œã™ã‚‹ï¼Ž
-    ```shell
-    $ python setup.py i
-    ```
+•¶‘‚ÌŽ·•Mì‹Æ‚É‚Â‚¢‚Ä
+-------------------
 
-å¿…ãšã“ã®ãƒ„ãƒ¼ãƒ«ã‚’ä½¿ã£ã¦ï¼Œäºˆã‚subsectionä»¥é™ã®æ–‡æ›¸ã‚’æ›¸ããŸã‚ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç”Ÿæˆã—ã¦ï¼Œ
-ãã‚Œã‚’ç·¨é›†ã™ã‚‹ã‚ˆã†ã«å‘¼ã³ã‹ã‘ã¦ãã ã•ã„ï¼Ž
-ã“ã‚Œã¯ã‚³ãƒ³ãƒ•ãƒªã‚¯ãƒˆã‚’é¿ã‘ã‚‹ãŸã‚ã§ã™ï¼Ž
-ã‚¿ã‚¹ã‚¯ã‚’ä½œæˆã™ã‚‹æ™‚ã«ç·¨é›†ã™ã‚‹ã¹ããƒ•ã‚¡ã‚¤ãƒ«ãƒ‘ã‚¹ã‚’æ˜Žç¤ºã—ã¦ãŠãã¨æ··ä¹±ãŒæ¸›ã‚‹ã¨æ€ã‚ã‚Œã¾ã™ï¼Ž
+### ‘‰ï•¶‘‚Ì‘‚«•û
+Ž·•M‚Ì‘S‘Ì“I‚È—¬‚ê‚ð‚±‚±‚É‹LÚ‚µ‚Ü‚·D
+Git‚ðŽg‚Á‚½ì‹Æ‚Ì4‚Ü‚Å‚Ìì‹Æ‚ðŠ®—¹‚µ‚Ä‚¢‚é‚±‚Æ‚ð‘O’ñ‚Æ‚µ‚Ä‚¢‚Ü‚·‚Ì‚ÅC
+‚Ü‚¾ì‹Æ‚ðs‚Á‚Ä‚¢‚È‚¢•û‚Íì‹Æ‚ðÏ‚Ü‚¹‚Ä‚­‚¾‚³‚¢D
 
-ä¼šå“¡ã«å¯¾ã™ã‚‹ã‚¢ã‚¯ã‚»ã‚¹è¨±å¯
------------------------
-ä¼šå“¡ãŒç·ä¼šãƒªãƒã‚¸ãƒˆãƒªã«pushã§ãã‚‹ã‚ˆã†ã«ã—ã¾ã™ï¼Ž
-1. ç·ä¼šãƒªãƒã‚¸ãƒˆãƒªã®`Settings/Manage access`ã«ã‚¢ã‚¯ã‚»ã‚¹ã—ã¾ã™ï¼Ž
-2. `Invite teams or people`ã‹ã‚‰ã‚¢ã‚¯ã‚»ã‚¹ã‚’è¨±å¯ã—ã¦ã„ãã¾ã™ï¼ŽRoleã¯ä»¥ä¸‹ã®ã‚ˆã†ã«ã—ã¦ãã ã•ã„ï¼Ž
-    ```
-    SystemManagement : Admin
-    member20xx : Write
-    ```
+1. ’S“–‚µ‚Ä‚¢‚é‰ÓŠ‚É‘Î‰ž‚·‚éƒtƒ@ƒCƒ‹‚ðì¬C‚ ‚é‚¢‚ÍŠJ‚«‚Ü‚·D
+   Šî–{“I‚É‚ÍC’S“–‚µ‚Ä‚¢‚éuƒCƒVƒ…[v‚Ìƒy[ƒW‚É‹LÚ‚³‚ê‚Ä‚¢‚éƒtƒ@ƒCƒ‹‚ð•ÒW‚·‚ê‚Î‚æ‚¢‚Å‚µ‚å‚¤D
+   ‹LÚ‚ª‚È‚¢ê‡‚âƒ^ƒXƒN‚ª‚È‚¢ê‡‚ÍCuƒfƒBƒŒƒNƒgƒŠ\¬‚É‚Â‚¢‚Äv‚Ìß‚ðŽQl‚É‚µ‚Äƒtƒ@ƒCƒ‹‚ð”z’u‚µ‚Ä‚­‚¾‚³‚¢D
+2. Ž·•M‚µ‚Ü‚·D
+   Í‚âßCƒŠƒXƒg“™‚Ì•¶ÍˆÈŠO‚Ì•¶‘‚Ì\¬—v‘f‚ÍCLaTeXƒRƒ}ƒ“ƒh‚ð—p‚¢‚é‚Æ—Ç‚¢‚Å‚µ‚å‚¤D
+   ‘S‚Ä‚Ìtexƒtƒ@ƒCƒ‹‚ÍC`\subsection*{}`‚©‚çŽn‚ß‚é‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢D
+   ‚Ü‚½C`\writtenBy`ƒRƒ}ƒ“ƒh‚ðŽg‚Á‚Ä•¶Ó‚à‹Lq‚µ‚Ä‚­‚¾‚³‚¢D
+3. ‘‰ï•¶‘Ž·•M‚Å‚ÍC’S“–‰ÓŠ‚²‚Æ‚Éƒtƒ@ƒCƒ‹‚ð•ªŠ„‚µ‚Ä‚¢‚Ü‚·D
+   •ªŠ„‚³‚ê‚½ƒtƒ@ƒCƒ‹‚ÍCÍ‚Ìƒtƒ@ƒCƒ‹‚â‹Ç•Ê‚Ìƒtƒ@ƒCƒ‹‚ÅŽ©“®“I‚ÉŽæ‚èž‚Ü‚ê‚é‚æ‚¤‚É‚È‚Á‚Ä‚¢‚Ü‚·D
+   uƒfƒBƒŒƒNƒgƒŠ‚Ì\¬v‚Ìß‚ðŽQl‚É‚µ‚ÄC•ÒW‚·‚éƒtƒ@ƒCƒ‹‚ðŠm”F‚µ‚Ü‚µ‚å‚¤D
 
-ãƒ–ãƒ©ãƒ³ãƒä¿è­·ãƒ«ãƒ¼ãƒ«ã®ä½œæˆ
------------------------
-ã‚·ã‚¹ç®¡å±€å“¡ä»¥å¤–ãŒmasterãƒ–ãƒ©ãƒ³ãƒã‚„developãƒ–ãƒ©ãƒ³ãƒã«pushã—ãªã„ã‚ˆã†ï¼Œãƒ–ãƒ©ãƒ³ãƒä¿è­·ãƒ«ãƒ¼ãƒ«ã‚’ä½œæˆã—ã¾ã™ï¼Ž
+### LaTeX‚É‚Â‚¢‚Ä
+‘‰ï•¶‘‚ÍCLaTeXiƒ‰ƒeƒtj‚ð—p‚¢‚ÄŽ·•M‚µ‚Ü‚·D
+LaTeX‚ÍC‘Ð‚âŽGŽCƒŒƒ|[ƒgC˜_•¶‚È‚Ç‚ÌŽ·•M‚ÉL‚­Žg‚í‚ê‚Ä‚¢‚éCƒtƒŠ[‚Ì‘g”ÅƒVƒXƒeƒ€‚Å‚·D
+’S“–‰ÓŠ‚²‚Æ‚Éƒtƒ@ƒCƒ‹‚ð•ªŠ„‚µ‚ÄC1‚Â‚Ì•¶‘‚ð\¬‚·‚é‚±‚Æ‚ª‚Å‚«‚é‚½‚ßC•¡”l‚Å‚Ìì‹Æ‚É“K‚µ‚Ä‚¢‚Ü‚·D
 
-1. `$ git checkout -b develop`ã§developãƒ–ãƒ©ãƒ³ãƒã‚’ä½œæˆã—ï¼Œ`$ git push origin develop`ã§developãƒ–ãƒ©ãƒ³ãƒã‚’pushã—ã¾ã™ï¼Ž
-2. ç·ä¼šãƒªãƒã‚¸ãƒˆãƒªã®`Settings/Branches`ã§`Default branch`ã‚’`develop`ã«å¤‰æ›´ã—ã¾ã™(åˆæœŸã¯`master`)ï¼Žå³å´ã«ã‚ã‚‹çŸ¢å°ã®ã‚¢ã‚¤ã‚³ãƒ³ã‚’ã‚¯ãƒªãƒƒã‚¯ã™ã‚‹ã“ã¨ã§å¤‰æ›´ã§ãã¾ã™ï¼Ž
-3. `Branch protection rules`ã®éš£ã®`Add rule`ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ãã ã•ã„ï¼Ž
-4. `Branch name pattern`ã«`develop`ã¨å…¥åŠ›ã—ï¼Œä»¥ä¸‹ã®é …ç›®ã«ãƒã‚§ãƒƒã‚¯ã‚’å…¥ã‚Œã¦ä¸‹ã•ã„ï¼Žã‚ã‹ã‚‰ãªã‹ã£ãŸã‚‰éŽåŽ»ã®ç·ä¼šãƒªãƒã‚¸ãƒˆãƒªã‚’å‚ç…§ã—ã¦ãã ã•ã„ï¼Ž
-    * Require pull request reviews before merging
-        ```   
-        Require approving reviews : 3
-        ```
-    * Require status checks to pass before merging
-        * Require branches to be up to date before merging
-    * Restrict who can push to matching branches
-        ```   
-        People, teams or apps with push access : ritscc/systemmanagement
-        ```
-5. `Save changes`ã‚’æŠ¼ã—ã¦ãã ã•ã„ï¼Ž
-6. 4ã‚’`master`ã«ã‚‚åŒæ§˜ã«è¡Œã†ï¼Ž
+LaTeX‚Ì‘‚«•û‚É‚Â‚¢‚Ä‚ÍCŠeŽ©ƒOƒO‚Á‚Ä‚­‚¾‚³‚¢D
 
-SlackAppã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—
------------------------
-Slack App(RCC soukai)ã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—ã‚’è¡Œã„ã¾ã™ï¼Žã“ã‚Œã¯ç·ä¼šæ–‡æ›¸ãŒ
+### •¶Í’†‚Å—˜—p‚Å‚«‚éƒRƒ}ƒ“ƒhˆê——
+¶‚Ì•\Œ»‚ð‹Lq‚µ‚½‚¢ê‡‚ÍC‰E‚ÌƒRƒ}ƒ“ƒh‚ð‹Lq‚·‚é‚±‚Æ‚Å•\Ž¦‚³‚¹‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·D
+`{}`‚Íˆø”‚Å‚·D
 
-1. `release`ã™ã‚‹ (developãƒ–ãƒ©ãƒ³ãƒã‹ã‚‰masterãƒ–ãƒ©ãƒ³ãƒã¸ã®PRã‚’ä½œæˆã™ã‚‹)
-2. `pre-release`ã—ãŸå¾Œã€`pre-release`ã‚’å¤–ã™ (ãƒªãƒã‚¸ãƒˆãƒªå³éƒ¨ã®`Releases/Edit`ã§`This is a pre-release`ã®ãƒã‚§ãƒƒã‚¯ã‚’å¤–ã™)
+* ‰ïŒv‹Ç `\kaikeiDepartment`
+* ‰ïŒv‹Ç’· `\kaikeiChief`
+* ‰ïŒv‹Çˆõ `\kaikeiStaff`
 
-ã¨ã„ã†æ‰‹é †ã‚’è¸ã‚“ã ã¨ãã«ï¼ŒSlackã®`#soukai`ã«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’æŠ•ç¨¿ã™ã‚‹ã‚¢ãƒ—ãƒªã§ã™ï¼Ž
+* Œ¤‹†„i‹Ç `\kensuiDepartment`
+* Œ¤‹†„i‹Ç’· `\kensuiChief`
+* Œ¤‹†„i‹Çˆõ `\kensuiStaff`
 
-### ä½œæ¥­æ‰‹é †
-Slack Appã‚’ãã®ã¾ã¾ä½¿ã†å ´åˆã¯ä»¥ä¸‹ã®æ‰‹é †ã‚’è¸ã‚“ã§ä¸‹ã•ã„ï¼Ž[README_notify.md](docs/README_notify.md)ã‚’è¦‹ã¦ä½œã‚Šç›´ã—ã¦ã‚‚ã„ã„ã§ã™ãŒï¼ŒScrapbox(ritscc-private)ã®`Slack App Webhook URL`ã®å†…å®¹ã¯å¿…ãšæ›´æ–°ã—ã¦ãã ã•ã„ï¼Ž
+* ÂŠO‹Ç `\syogaiDepartment`
+* ÂŠO‹Ç’· `\syogaiChief`
+* ÂŠO‹Çˆõ `\syogaiStaff`
 
-1. Webhook URLã‚’Scrapbox(ritscc-private)ã‹ã‚‰å–å¾—ã—ã¾ã™ï¼Ž`Slack App Webhook URL`ã¨ã„ã†ã‚¿ã‚¤ãƒˆãƒ«ã®è¨˜äº‹ã«è¨˜è¼‰ã•ã‚Œã¦ã„ã¾ã™ï¼Ž
+* ƒVƒXƒeƒ€ŠÇ—‹Ç `\systemDepartment`
+* ƒVƒXƒeƒ€ŠÇ—‹Ç’· `\systemChief`
+* ƒVƒXƒeƒ€ŠÇ—‹Çˆõ `\systemStaff`
 
-2. `Settings/Secrets/New repository secret`ã«Webhook URLã‚’ä¿å­˜ã—ã¾ã™ï¼Žã“ã®æ™‚ã€Nameå±žæ€§ã¯å¿…ãš`SLACK_WEBHOOK`ã«ã—ã¦ãã ã•ã„ã€‚
-    ```
-    Name : SLACK_WEBHOOK
-    Value : å–å¾—ã—ãŸWebhook URL
-    ```
+* ‘–±‹Ç `\soumuDepartment`
+* ‘–±‹Ç’· `\soumuChief`
+* ‘–±‹Çˆõ `\soumuStaff`
 
-3. (ä»»æ„)æŠ•ç¨¿ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã®ã‚«ã‚¹ã‚¿ãƒžã‚¤ã‚ºã‚’ã—ã¾ã™ï¼Žä»¥ä¸Šã®ä½œæ¥­ã§ã¯ã€ä¸‹è¨˜ã®ã‚ˆã†ãªãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãŒæŠ•ç¨¿ã•ã‚Œã‚‹ã“ã¨ã«ãªã‚Šã¾ã™ã€‚
+* Ž·sˆÏˆõ’· `\president`
+* •›Ž·sˆÏˆõ’· `\subPresident`
 
-<img width="418" alt="ã‚¹ã‚¯ãƒªãƒ¼ãƒ³ã‚·ãƒ§ãƒƒãƒˆ 2021-08-27 12 47 42" src="https://user-images.githubusercontent.com/50389029/131068908-1569e6a9-a0a0-4257-8617-fee94e7b6d92.png">
+* ˆê‰ñ¶ `\firstGrade`
+* “ñ‰ñ¶ `\secondGrade`
+* ŽO‰ñ¶ `\thirdGrade`
+* Žl‰ñ¶ `\fourthGrade`
 
-`Message`ã¨ã„ã†ãƒ†ã‚­ã‚¹ãƒˆã‚’å¤‰æ›´ã—ãŸã„å ´åˆã¯ã€`.github.sample/workflows/notify.yml`ã‚’ä¸‹è¨˜ã®ã‚ˆã†ã«å¤‰æ›´ã—ã¦ãã ã•ã„ã€‚
+* •¶ÓFx y z `\writtenBy{x}{y}{z}`
 
-```diff
-    env:
-+   SLACK_TITLE: "ã‚¿ã‚¤ãƒˆãƒ«ã‚’è¨˜å…¥ã™ã‚‹ã‚ˆ"
-    SLACK_MESSAGE: ":tada: ç·ä¼šæ–‡æ›¸ãŒãƒªãƒªãƒ¼ã‚¹ã•ã‚Œã¾ã—ãŸ"
-    SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+—˜—p—áF
+```latex
+\writtenBy{\president}{—§–½}{‘¾˜Y}
 ```
-è©³ã—ãã¯[action-slack-notify](https://github.com/rtCamp/action-slack-notify)ã‚’è¦‹ã¦ãã ã•ã„ï¼Ž
 
-PRãƒ†ã‚¹ãƒˆ
------------------------
-æœ€å¾Œã«PRãƒ†ã‚¹ãƒˆã‚’è¡Œã„ã¾ã™ï¼Ž
+ŽÀsŒ‹‰ÊF
+`•¶ÓFŽ·sˆÏˆõ’·@—§–½ ‘¾˜Y`
 
-1. ç·ä¼šæ–‡æ›¸ã®ä½œæˆæ‰‹é †ã«ã—ãŸãŒã£ã¦é©å½“ãªãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç·¨é›†ã—ã¾ã™ï¼Ž
-2. developã¸ã®PRã‚’ä½œæˆã—ï¼ŒGitHub ActionsãŒé©åˆ‡ã«å‹•ä½œã™ã‚‹ã‹ç¢ºèªã—ã¾ã™ï¼Žãƒ“ãƒ«ãƒ‰ã‚¨ãƒ©ãƒ¼ãŒèµ·ããŸå ´åˆã¯[README_builderror.md](./docs/README_builderror.md)ã‚’è¦‹ã¦ãã ã•ã„ï¼Ž
-3. æˆåŠŸã—ãŸã‚‰Slackã§ç·ä¼šãƒªãƒã‚¸ãƒˆãƒªç”Ÿæˆã®æ—¨ã‚’ä¼ãˆï¼ŒåŸ·ç­†ä½œæ¥­ã‚’é–‹å§‹ã—ã¦ã‚‚ã‚‰ã„ã¾ã™ï¼Ž
+### ƒfƒBƒŒƒNƒgƒŠ\¬‚É‚Â‚¢‚Ä
 
-ç·ä¼šãƒªãƒã‚¸ãƒˆãƒªã®è¨­å®šã¯ä»¥ä¸Šã§ã™ï¼Ž
+```
+„¥„Ÿ„Ÿ README.md - ‚±‚Ìƒtƒ@ƒCƒ‹
+„¥„Ÿ„Ÿ document.tex - ‘‰ï•¶Í‚ÌÝ’èƒtƒ@ƒCƒ‹
+„¥„Ÿ„Ÿ src/
+„    „¥„Ÿ„Ÿ zenki.tex - ‘æˆê‰ñ(tŠwŠú—p)‘‰ï•¶‘—pƒƒCƒ“ƒtƒ@ƒCƒ‹
+„    „¥„Ÿ„Ÿ kouki.tex - ‘æ“ñ‰ñ(HŠwŠú—p)‘‰ï•¶‘—pƒƒCƒ“ƒtƒ@ƒCƒ‹
+„    „¥„Ÿ„Ÿ soukatsu/ - ‘Š‡—pƒfƒBƒŒƒNƒgƒŠ
+„    „    „¥„Ÿ„Ÿ zentai.tex - ‘S‘Ì‘Š‡ƒƒCƒ“ƒtƒ@ƒCƒ‹i‘S‘Ì‘Š‡—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}j
+„    „    „¥„Ÿ„Ÿ 1kai.tex - 1‰ñ¶‘Š‡
+„    „    „¥„Ÿ„Ÿ 2kai.tex - 2‰ñ¶‘Š‡
+„    „    „¥„Ÿ„Ÿ 3kai.tex - 3‰ñ¶‘Š‡
+„    „    „¥„Ÿ„Ÿ kaikei.tex - ‰ïŒv‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
+„    „    „¥„Ÿ„Ÿ kensui.tex - Œ¤‹†„i‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
+„    „    „¥„Ÿ„Ÿ syogai.tex - ÂŠO‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
+„    „    „¥„Ÿ„Ÿ soumu.tex  - ‘–±‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
+„    „    „¥„Ÿ„Ÿ system.tex - ƒVƒXƒeƒ€ŠÇ—‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
+„    „    „¥„Ÿ„Ÿ zentai/ - ‘S‘Ì‘Š‡—pƒtƒHƒ‹ƒ_i‹ÇC‰ñ¶•ÊˆÈŠO‚Ìƒtƒ@ƒCƒ‹‚Í‚±‚±‚É”z’uj
+„    „    „¥„Ÿ„Ÿ kaikei/ - ‰ïŒv‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_
+„    „    „¥„Ÿ„Ÿ kensui/ - Œ¤‹†„i‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_
+„    „    „¥„Ÿ„Ÿ syogai/ - ÂŠO‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_
+„    „    „¥„Ÿ„Ÿ soumu/  - ‘–±‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_
+„    „    „¤„Ÿ„Ÿ system/ - ƒVƒXƒeƒ€ŠÇ—‹Ç ‘Š‡—pƒtƒHƒ‹ƒ_
+„    „¥„Ÿ„Ÿ houshin/ - •ûj—pƒfƒBƒŒƒNƒgƒŠ
+„    „    „¥„Ÿ„Ÿ zentai.tex - ‘S‘Ì•ûjƒƒCƒ“ƒtƒ@ƒCƒ‹i‘S‘Ì•ûj—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}j
+„    „    „¥„Ÿ„Ÿ 1kai.tex - 1‰ñ¶•ûj(tŠwŠú‚Ì‚Ý)
+„    „    „¥„Ÿ„Ÿ 2kai.tex - 2‰ñ¶•ûj
+„    „    „¥„Ÿ„Ÿ 3kai.tex - 3‰ñ¶•ûj
+„    „    „¥„Ÿ„Ÿ kaikei.tex - ‰ïŒv‹Ç •ûj—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
+„    „    „¥„Ÿ„Ÿ kensui.tex - Œ¤‹†„i‹Ç •ûj—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
+„    „    „¥„Ÿ„Ÿ syogai.tex - ÂŠO‹Ç •ûj—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
+„    „    „¥„Ÿ„Ÿ soumu.tex  - ‘–±‹Ç •ûj—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
+„    „    „¥„Ÿ„Ÿ system.tex - ƒVƒXƒeƒ€ŠÇ—‹Ç •ûj—pƒtƒHƒ‹ƒ_‚Ì“à—e‚ð\input{}‚·‚éƒtƒ@ƒCƒ‹iŽ©“®¶¬j
+„    „    „¥„Ÿ„Ÿ zentai/ - ‘S‘Ì•ûj—pƒtƒHƒ‹ƒ_i‹ÇC‰ñ¶•ÊˆÈŠO‚Ìƒtƒ@ƒCƒ‹‚Í‚±‚±‚É”z’uj
+„    „    „¥„Ÿ„Ÿ kaikei/ - ‰ïŒv‹Ç •ûj—pƒtƒHƒ‹ƒ_
+„    „    „¥„Ÿ„Ÿ kensui/ - Œ¤‹†„i‹Ç •ûj—pƒtƒHƒ‹ƒ_
+„    „    „¥„Ÿ„Ÿ syogai/ - ÂŠO‹Ç •ûj—pƒtƒHƒ‹ƒ_
+„    „    „¥„Ÿ„Ÿ soumu/  - ‘–±‹Ç •ûj—pƒtƒHƒ‹ƒ_
+„    „    „¤„Ÿ„Ÿ system/ - ƒVƒXƒeƒ€ŠÇ—‹Ç •ûj—pƒtƒHƒ‹ƒ_
+„¥„Ÿ„Ÿ .github/ - GitHub Actions‚ÉŽg—p‚³‚ê‚éƒc[ƒ‹ŒQ
+„¥„Ÿ„Ÿ docs/ - ‘‰ï•¶‘ƒŠƒ|ƒWƒgƒŠ‚ðƒZƒbƒgƒAƒbƒv‚·‚élŒü‚¯‚ÌƒhƒLƒ…ƒƒ“ƒg—Þ
+„¥„Ÿ„Ÿ setup/ - ƒZƒbƒgƒAƒbƒvƒvƒƒOƒ‰ƒ€ƒtƒHƒ‹ƒ_
+„¥„Ÿ„Ÿ template/ - Ž©“®¶¬‚ÉŽg‚í‚ê‚éƒeƒ“ƒvƒŒ[ƒgƒtƒ@ƒCƒ‹ŒQ
+„¥„Ÿ„Ÿ tools/ - ƒeƒXƒg‚ÉŽg‚í‚ê‚éƒc[ƒ‹ŒQ
+„¤„Ÿ„Ÿ assignee.yml - setup.py‚ÅŽg—p‚·‚é’S“–ŽÒÝ’èƒtƒ@ƒCƒ‹
+```
+
+‘‰ï•¶‘‚ÌƒZƒbƒgƒAƒbƒv
+---------------------
+ƒŠƒ|ƒWƒgƒŠ‚âƒtƒ@ƒCƒ‹‚ÌƒZƒbƒgƒAƒbƒv•û–@‚ÍC[README\_setup.md](docs/README_setup.md)‚ð‚²——‚­‚¾‚³‚¢D
+Ž©“®ƒrƒ‹ƒh‚ÌƒZƒbƒgƒAƒbƒv•û–@‚ÍC[README\_CI.md](docs/README_CI.md)‚ð‚²——‚­‚¾‚³‚¢D
