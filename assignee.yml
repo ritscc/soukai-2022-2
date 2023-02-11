@@ -1,91 +1,91 @@
-# RCC è‡ªå‹•ç”Ÿæˆç”¨ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ
-# ã€æ›¸å¼ã€‘ filename: ã‚¿ã‚¤ãƒˆãƒ«,å§“ å,GitHubID
-# ï¼ˆä¾‹ï¼‰1kai: 1å›ç”Ÿç·æ‹¬,RCC å¤ªéƒ,ritscc-master
+# RCC ©“®¶¬—pƒeƒ“ƒvƒŒ[ƒg
+# y‘®z filename: ƒ^ƒCƒgƒ‹,© –¼,GitHubID
+# i—áj1kai: 1‰ñ¶‘Š‡,RCC ‘¾˜Y,ritscc-master
 #
-# å›ç”Ÿåˆ¥ã®ãƒ•ã‚¡ã‚¤ãƒ«åã¯å¤‰æ›´ã—ãªã„ã§ãã ã•ã„
-# ãã‚Œä»¥å¤–ã®ãƒ•ã‚¡ã‚¤ãƒ«åã¯å…ˆé ­ã«æ•°å­—ã‚’ä»˜ã‘ã‚‹ã“ã¨ã§ã€é †ç•ªã‚’åˆ¶å¾¡ã§ãã¾ã™
-# æ•°å­—ãŒä¸€æ¡ã®å ´åˆã¯å…ˆé ­ã«0ã‚’ã¤ã‘ã¦ãã ã•ã„ï¼
+# ‰ñ¶•Ê‚Ìƒtƒ@ƒCƒ‹–¼‚Í•ÏX‚µ‚È‚¢‚Å‚­‚¾‚³‚¢
+# ‚»‚êˆÈŠO‚Ìƒtƒ@ƒCƒ‹–¼‚Íæ“ª‚É”š‚ğ•t‚¯‚é‚±‚Æ‚ÅA‡”Ô‚ğ§Œä‚Å‚«‚Ü‚·
+# ”š‚ªˆêŒ…‚Ìê‡‚Íæ“ª‚É0‚ğ‚Â‚¯‚Ä‚­‚¾‚³‚¢D
 ---
-hajimeni: ã¯ã˜ã‚ã«
+hajimeni: ‚Í‚¶‚ß‚É
 soukatsu:
   zentai:
-    01_zentai: å¾ŒæœŸæ´»å‹•ç·æ‹¬,Park Jooinh,RosesAndViolets
-    02_unei: é‹å–¶ç·æ‹¬,å±±æœ¬ äº¬ä»‹,kyochn
-    03_project: ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆæ´»å‹•ç·æ‹¬,å®®å¯º å¤§æ¨¹,Daiki9999
+    01_zentai: ŒãŠúŠˆ“®‘Š‡,Park Jooinh,RosesAndViolets
+    02_unei: ‰^‰c‘Š‡,R–{ ‹‰î,kyochn
+    03_project: ƒvƒƒWƒFƒNƒgŠˆ“®‘Š‡,‹{› ‘å÷,Daiki9999
 
-  1kai: 1å›ç”Ÿç·æ‹¬,æ¢¶åŸ æ‚ äºº,kajiwara727
-  2kai: 2å›ç”Ÿç·æ‹¬,ç¾½ç”° ç§€å¹³,hane0817
-  3kai: 3å›ç”Ÿç·æ‹¬,é§’è°· äº®å¡,komasandesu
+  1kai: 1‰ñ¶‘Š‡,ŠŒ´ —Il,kajiwara727
+  2kai: 2‰ñ¶‘Š‡,‰H“c G•½,hane0817
+  3kai: 3‰ñ¶‘Š‡,‹î’J —º‰b,komasandesu
 
   kaikei:
-    01_zentai: å…¨ä½“ç·æ‹¬,ä½ä¹…é–“ æ™ºä¹Ÿ,CityBear3
-    02_zaimu: è²¡å‹™ç·æ‹¬,ä½ä¹…é–“ æ™ºä¹Ÿ,CityBear3
-    03_zaisei: è²¡æ”¿ç·æ‹¬,ä½ä¹…é–“ æ™ºä¹Ÿ,CityBear3
+    01_zentai: ‘S‘Ì‘Š‡,²‹vŠÔ ’q–ç,CityBear3
+    02_zaimu: à–±‘Š‡,²‹vŠÔ ’q–ç,CityBear3
+    03_zaisei: à­‘Š‡,²‹vŠÔ ’q–ç,CityBear3
   kensui:
-    01_zentai: å…¨ä½“ç·æ‹¬,å®®å¯º å¤§æ¨¹,Daiki9999
-    02_project: ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆç·æ‹¬,å®®å¯º å¤§æ¨¹,Daiki9999
-    03_LT: LTç·æ‹¬,å®®å¯º å¤§æ¨¹,Daiki9999
+    01_zentai: ‘S‘Ì‘Š‡,‹{› ‘å÷,Daiki9999
+    02_project: ƒvƒƒWƒFƒNƒg‘Š‡,‹{› ‘å÷,Daiki9999
+    03_LT: LT‘Š‡,‹{› ‘å÷,Daiki9999
   syogai:
-    01_zentai: å…¨ä½“ç·æ‹¬,é§’è°· äº®å¡,komasandesu
-    02_adokare: ã‚¢ãƒ‰ã‚«ãƒ¬ç·æ‹¬,å°¾ï¨‘ çœŸå¤®
-    03_kyokukaigi: å±€ä¼šè­°ç·æ‹¬,å¸‚å· æ„›å­èœ
-    04_twitter: Twitterç·æ‹¬,å°¾ï¨‘ çœŸå¤®
-    05_web: Webç·æ‹¬,å¸‚å· æ„›å­èœ
+    01_zentai: ‘S‘Ì‘Š‡,‹î’J —º‰b,komasandesu
+    02_adokare: ƒAƒhƒJƒŒ‘Š‡,”öú± ^‰›
+    03_kyokukaigi: ‹Ç‰ï‹c‘Š‡,sì ˆ¤qØ
+    04_twitter: Twitter‘Š‡,”öú± ^‰›
+    05_web: Web‘Š‡,sì ˆ¤qØ
   system:
-    01_zentai: å…¨ä½“ç·æ‹¬,å¤§é‡ ç›´å“‰,minusno0708
-    02_kyokukaigi: å±€ä¼šè­°ç·æ‹¬,å¤§é‡ ç›´å“‰,minusno0708
-    03_study: å‹‰å¼·ä¼šç·æ‹¬,ç”°å°» è–å¥ˆ,SAINE-TZ
-    04_server: ã‚µãƒ¼ãƒç®¡ç†ç·æ‹¬,ç¾½ç”° ç§€å¹³,hane0817
-    05_hikitugi: å¼•ãç¶™ãç·æ‹¬,å±±æœ¬ äº¬ä»‹,kyochn
-    06_sinkyokuin: æ–°å±€å“¡ç·æ‹¬,å¤§é‡ ç›´å“‰,minusno0708
+    01_zentai: ‘S‘Ì‘Š‡,‘å–ì ’¼Æ,minusno0708
+    02_kyokukaigi: ‹Ç‰ï‹c‘Š‡,‘å–ì ’¼Æ,minusno0708
+    03_study: •×‹­‰ï‘Š‡,“cK ¹“Ş,SAINE-TZ
+    04_server: ƒT[ƒoŠÇ—‘Š‡,‰H“c G•½,hane0817
+    05_hikitugi: ˆø‚«Œp‚¬‘Š‡,R–{ ‹‰î,kyochn
+    06_sinkyokuin: V‹Çˆõ‘Š‡,‘å–ì ’¼Æ,minusno0708
 
   soumu:
-    01_zentai: å…¨ä½“ç·æ‹¬,å¤å· è¡æ‚Ÿ,def-FkSgrKN
-    02_huuki: é¢¨ç´€æ¥­å‹™ç·æ‹¬,å¤å· è¡æ‚Ÿ,def-FkSgrKN
-    03_souzi: æƒé™¤æ¥­å‹™ç·æ‹¬,å¤å· è¡æ‚Ÿ,def-FkSgrKN
-    04_syoki: æ›¸è¨˜æ¥­å‹™ç·æ‹¬,å¤å· è¡æ‚Ÿ,def-FkSgrKN
-    05_gyozi: ä¼šå†…è¡Œäº‹ç·æ‹¬,å¤å· è¡æ‚Ÿ,def-FkSgrKN
-    06_bihin: å‚™å“æ¥­å‹™ç·æ‹¬,å¤å· è¡æ‚Ÿ,def-FkSgrKN
+    01_zentai: ‘S‘Ì‘Š‡,ŒÃì ‘Œå,def-FkSgrKN
+    02_huuki: •—‹I‹Æ–±‘Š‡,ŒÃì ‘Œå,def-FkSgrKN
+    03_souzi: ‘|œ‹Æ–±‘Š‡,ŒÃì ‘Œå,def-FkSgrKN
+    04_syoki: ‘‹L‹Æ–±‘Š‡,ŒÃì ‘Œå,def-FkSgrKN
+    05_gyozi: ‰ï“às–‘Š‡,ŒÃì ‘Œå,def-FkSgrKN
+    06_bihin: ”õ•i‹Æ–±‘Š‡,ŒÃì ‘Œå,def-FkSgrKN
 
 houshin:
   zentai:
-    01_zentai: å‰æœŸæ´»å‹•æ–¹é‡,ç¾½ç”° ç§€å¹³,hane0817
-    02_unei: é‹å–¶æ–¹é‡,å¤§é‡ ç›´å“‰,minusno0708
-    03_project: ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆæ´»å‹•æ–¹é‡,å®®å¯º å¤§æ¨¹,Daiki9999
-    04_sinkan: æ–°æ­“æ–¹é‡,ç¾½ç”° ç§€å¹³,hane0817
-    05_kaishi: ä¼šèªŒæ–¹é‡,æ—©å· ç«œç”Ÿ
-    06_gakuensai: å­¦åœ’ç¥­æ–¹é‡,æ¢¶åŸ æ‚ äºº,kajiwara727
-    07_ritumeihouse: ç«‹å‘½ã®å®¶æ–¹é‡,æ–°äº• åº·å¹³,koheiarai0726
-    08_welcom: Welcomeã‚¼ãƒŸæ–¹é‡,å°¾ï¨‘ çœŸå¤®
+    01_zentai: ‘OŠúŠˆ“®•ûj,‰H“c G•½,hane0817
+    02_unei: ‰^‰c•ûj,‘å–ì ’¼Æ,minusno0708
+    03_project: ƒvƒƒWƒFƒNƒgŠˆ“®•ûj,‹{› ‘å÷,Daiki9999
+    04_sinkan: VŠ½•ûj,‰H“c G•½,hane0817
+    05_kaishi: ‰ï•ûj,‘ì —³¶
+    06_gakuensai: Šw‰€Õ•ûj,ŠŒ´ —Il,kajiwara727
+    07_ritumeihouse: —§–½‚Ì‰Æ•ûj,Vˆä N•½,koheiarai0726
+    08_welcom: Welcomeƒ[ƒ~•ûj,”öú± ^‰›
 
-  2kai: æ–°2å›ç”Ÿæ–¹é‡,Kim Woohyeon,wegvbhjlkasd
-  3kai: æ–°3å›ç”Ÿæ–¹é‡,å¤å· è¡æ‚Ÿ,def-FkSgrKN
+  2kai: V2‰ñ¶•ûj,Kim Woohyeon,wegvbhjlkasd
+  3kai: V3‰ñ¶•ûj,ŒÃì ‘Œå,def-FkSgrKN
 
-  4kai: æ–°4å›ç”Ÿæ–¹é‡
+  4kai: V4‰ñ¶•ûj
 
   kaikei:
-    01_zentai: å…¨ä½“æ–¹é‡,ä½ä¹…é–“ æ™ºä¹Ÿ,CityBear3
-    02_zaimu: è²¡å‹™æ–¹é‡,ä½ä¹…é–“ æ™ºä¹Ÿ,CityBear3
-    03_zaisei: è²¡æ”¿æ–¹é‡,ä½ä¹…é–“ æ™ºä¹Ÿ,CityBear3
+    01_zentai: ‘S‘Ì•ûj,²‹vŠÔ ’q–ç,CityBear3
+    02_zaimu: à–±•ûj,²‹vŠÔ ’q–ç,CityBear3
+    03_zaisei: à­•ûj,²‹vŠÔ ’q–ç,CityBear3
   kensui:
-    01_zentai: å…¨ä½“æ–¹é‡,æ¢¶åŸ æ‚ äºº,kajiwara727
-    02_project: ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆæ–¹é‡,æ–°äº• åº·å¹³,koheiarai0726
-    03_LT: LTæ–¹é‡,Kim Myeongsu,handkin
+    01_zentai: ‘S‘Ì•ûj,ŠŒ´ —Il,kajiwara727
+    02_project: ƒvƒƒWƒFƒNƒg•ûj,Vˆä N•½,koheiarai0726
+    03_LT: LT•ûj,Kim Myeongsu,handkin
   syogai:
-    01_zentai: å…¨ä½“æ–¹é‡,é§’è°· äº®å¡,komasandesu
-    02_kyokukaigi: å±€ä¼šè­°æ–¹é‡,å¸‚å· æ„›å­èœ
-    03_twitter: Twitteræ–¹é‡,é§’è°· äº®å¡,komasandesu
-    04_web: Webæ–¹é‡,å°¾ï¨‘ çœŸå¤®
+    01_zentai: ‘S‘Ì•ûj,‹î’J —º‰b,komasandesu
+    02_kyokukaigi: ‹Ç‰ï‹c•ûj,sì ˆ¤qØ
+    03_twitter: Twitter•ûj,‹î’J —º‰b,komasandesu
+    04_web: Web•ûj,”öú± ^‰›
   system:
-    01_zentai: å…¨ä½“æ–¹é‡,Kim Woohyeon,wegvbhjlkasd
-    02_kyokukaigi: å±€ä¼šè­°æ–¹é‡,å¤§é‡ ç›´å“‰,minusno0708
-    03_study: å‹‰å¼·ä¼šæ–¹é‡,æ¾¤äº• ç¥äºº,okisidentarisu
-    04_server: ã‚µãƒ¼ãƒç®¡ç†æ–¹é‡,å†¨é«˜ éºŸå¤ªéƒ,rintaro29
-    05_hikitsugi: å¼•ãç¶™ãæ–¹é‡,ç¾½ç”° ç§€å¹³,hane0817
+    01_zentai: ‘S‘Ì•ûj,Kim Woohyeon,wegvbhjlkasd
+    02_kyokukaigi: ‹Ç‰ï‹c•ûj,‘å–ì ’¼Æ,minusno0708
+    03_study: •×‹­‰ï•ûj,àVˆä —Sl,okisidentarisu
+    04_server: ƒT[ƒoŠÇ—•ûj,•y‚ —Ù‘¾˜Y,rintaro29
+    05_hikitsugi: ˆø‚«Œp‚¬•ûj,‰H“c G•½,hane0817
   soumu:
-    01_zentai: å…¨ä½“æ–¹é‡,åŠ©é‡ æœ”è˜­,sakura588
-    02_huuki: é¢¨ç´€æ¥­å‹™æ–¹é‡,åŠ©é‡ æœ”è˜­,sakura588
-    03_souzi: æƒé™¤æ¥­å‹™æ–¹é‡,åŠ©é‡ æœ”è˜­,sakura588
-    04_syoki: æ›¸è¨˜æ¥­å‹™æ–¹é‡,æ—©å· ç«œç”Ÿ
-    05_gyozi: ä¼šå†…è¡Œäº‹æ–¹é‡,æ—©å· ç«œç”Ÿ
-    06_bihin: å‚™å“æ¥­å‹™æ–¹é‡,æ—©å· ç«œç”Ÿ
+    01_zentai: ‘S‘Ì•ûj,•–ì ñ—–,sakura588
+    02_huuki: •—‹I‹Æ–±•ûj,•–ì ñ—–,sakura588
+    03_souzi: ‘|œ‹Æ–±•ûj,•–ì ñ—–,sakura588
+    04_syoki: ‘‹L‹Æ–±•ûj,‘ì —³¶
+    05_gyozi: ‰ï“às–•ûj,‘ì —³¶
+    06_bihin: ”õ•i‹Æ–±•ûj,‘ì —³¶
